@@ -4,4 +4,4 @@ This repo is a collection of *bite-sized learnings*, *quick tips*, and *interest
 
 From **coding snippets** to **life hacks**, you'll find a variety of topics here.
 
-As I continue this eclectic exploration, I stay tuned for more discoveries!
+As I continue this eclectic exploration, I stay tuned for more discoveries 🤯
