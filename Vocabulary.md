@@ -28,3 +28,6 @@
 - [ ] persevere                        <!-- Meaning -->
 - [ ] plunge                           <!-- Meaning -->
 - [ ] unleash                          <!-- Meaning -->
+
+## Feb 1, 2024
+### Evolution and Migration
