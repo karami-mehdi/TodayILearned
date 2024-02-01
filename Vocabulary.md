@@ -31,13 +31,13 @@
 
 ## Feb 1, 2024
 ### Evolution and Migration
-- [ ] adapt
-- [ ] diverse
-- [ ] evolve
-- [ ] feature
-- [ ] generation
-- [ ] inherent
-- [ ] migration
-- [ ] physical
-- [ ] process
-- [ ] survive
+- [ ] adapt                            <!-- Meaning -->
+- [ ] diverse                          <!-- Meaning -->
+- [ ] evolve                           <!-- Meaning -->
+- [ ] feature                          <!-- Meaning -->
+- [ ] generation                       <!-- Meaning -->
+- [ ] inherent                         <!-- Meaning -->
+- [ ] migration                        <!-- Meaning -->
+- [ ] physical                         <!-- Meaning -->
+- [ ] process                          <!-- Meaning -->
+- [ ] survive                          <!-- Meaning -->
