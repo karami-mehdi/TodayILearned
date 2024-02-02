@@ -56,4 +56,14 @@
 - [ ] stable                           <!-- firmly fixed or not likely to move or change -->
 
 ## Feb 3, 2024
-### Time Efficiency Target Words
+### Time Efficiency
+- [ ] adjust
+- [ ] arbitrary
+- [ ] denominator
+- [ ] exponentially
+- [ ] infinitesimal
+- [ ] maximize
+- [ ] parallel
+- [ ] proportion
+- [ ] rate
+- [ ] sequence
