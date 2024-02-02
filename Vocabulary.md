@@ -44,13 +44,13 @@
 
 ## Feb 2, 2024
 ### Petroleum Alternatives
-- [ ] constraint
-- [ ] contamination
-- [ ] deplete
-- [ ] dispose of
-- [ ] elementally
-- [ ] emission
-- [ ] extinction
-- [ ] reservoir
-- [ ] shrink
-- [ ] stable
+- [ ] constraint                       <!-- Meaning -->
+- [ ] contamination                    <!-- Meaning -->
+- [ ] deplete                          <!-- Meaning -->
+- [ ] dispose of                       <!-- Meaning -->
+- [ ] elementally                      <!-- Meaning -->
+- [ ] emission                         <!-- Meaning -->
+- [ ] extinction                       <!-- Meaning -->
+- [ ] reservoir                        <!-- Meaning -->
+- [ ] shrink                           <!-- Meaning -->
+- [ ] stable                           <!-- Meaning -->
