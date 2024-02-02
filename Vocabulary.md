@@ -44,13 +44,13 @@
 
 ## Feb 2, 2024
 ### Petroleum Alternatives
-- [ ] constraint                       <!-- Meaning -->
-- [ ] contamination                    <!-- Meaning -->
-- [ ] deplete                          <!-- Meaning -->
-- [ ] dispose of                       <!-- Meaning -->
-- [ ] elementally                      <!-- Meaning -->
-- [ ] emission                         <!-- Meaning -->
-- [ ] extinction                       <!-- Meaning -->
-- [ ] reservoir                        <!-- Meaning -->
-- [ ] shrink                           <!-- Meaning -->
-- [ ] stable                           <!-- Meaning -->
+- [ ] constraint                       <!-- something that controls what you do by keeping you within particular limits -->
+- [ ] contamination                    <!-- the process of making something dirty or poisonous, or the state of containing unwanted or dangerous substances -->
+- [ ] deplete                          <!-- to reduce something in size or amount, especially supplies of energy, money, etc. -->
+- [ ] dispose of                       <!-- to get rid of someone or something or deal with something so that the matter is finished -->
+- [ ] elementally                      <!-- in a way that is very basic, simple, and powerful -->
+- [ ] emission                         <!-- the act of sending out gas, heat, light, etc. -->
+- [ ] extinction                       <!-- a situation in which something no longer exists -->
+- [ ] reservoir                        <!-- a place for storing liquid, especially a natural or artificial lake providing water for a city or other area -->
+- [ ] shrink                           <!-- to become smaller, or to make something smaller -->
+- [ ] stable                           <!-- firmly fixed or not likely to move or change -->
