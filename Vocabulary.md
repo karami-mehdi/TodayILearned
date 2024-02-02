@@ -57,13 +57,13 @@
 
 ## Feb 3, 2024
 ### Time Efficiency
-- [ ] adjust
-- [ ] arbitrary
-- [ ] denominator
-- [ ] exponentially
-- [ ] infinitesimal
-- [ ] maximize
-- [ ] parallel
-- [ ] proportion
-- [ ] rate
-- [ ] sequence
+- [ ] adjust                           <!-- Meaning -->
+- [ ] arbitrary                        <!-- Meaning -->
+- [ ] denominator                      <!-- Meaning -->
+- [ ] exponentially                    <!-- Meaning -->
+- [ ] infinitesimal                    <!-- Meaning -->
+- [ ] maximize                         <!-- Meaning -->
+- [ ] parallel                         <!-- Meaning -->
+- [ ] proportion                       <!-- Meaning -->
+- [ ] rate                             <!-- Meaning -->
+- [ ] sequence                         <!-- Meaning -->
