@@ -41,3 +41,6 @@
 - [ ] physical                         <!-- Meaning -->
 - [ ] process                          <!-- Meaning -->
 - [ ] survive                          <!-- Meaning -->
+
+## Feb 2, 2024
+### Petroleum Alternatives
