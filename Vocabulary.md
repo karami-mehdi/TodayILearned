@@ -18,16 +18,16 @@
 
 ## Jan 31, 2024
 ### Disaster
-- [ ] anticipate                       <!-- Meaning -->
-- [ ] catastrophic                     <!-- Meaning -->
-- [ ] collide                          <!-- Meaning -->
-- [ ] eruption                         <!-- Meaning -->
-- [ ] famine                           <!-- Meaning -->
-- [ ] flood                            <!-- Meaning -->
-- [ ] impact                           <!-- Meaning -->
-- [ ] persevere                        <!-- Meaning -->
-- [ ] plunge                           <!-- Meaning -->
-- [ ] unleash                          <!-- Meaning -->
+- [ ] anticipate                       <!-- to imagine or expect that something will happen -->
+- [ ] catastrophic                     <!-- causing sudden and very great harm or destruction -->
+- [ ] collide                          <!-- (especially of moving objects) to hit something violently -->
+- [ ] eruption                         <!-- an occasion when a volcano explodes, and flames and rocks come out of it, or the act of doing this -->
+- [ ] famine                           <!-- a situation in which there is not enough food for a great number of people -->
+- [ ] flood                            <!-- to cause to fill or become covered with water, especially in a way that causes problems -->
+- [ ] impact                           <!-- to have an influence on something -->
+- [ ] persevere                        <!-- to continue to exist despite a difficult or changing situation -->
+- [ ] plunge                           <!-- to move or fall suddenly and often a long way forward, down, or into something -->
+- [ ] unleash                          <!-- to suddenly release a violent force that cannot be controlled -->
 
 ## Feb 1, 2024
 ### Evolution and Migration
