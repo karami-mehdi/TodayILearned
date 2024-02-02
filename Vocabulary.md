@@ -54,3 +54,6 @@
 - [ ] reservoir                        <!-- a place for storing liquid, especially a natural or artificial lake providing water for a city or other area -->
 - [ ] shrink                           <!-- to become smaller, or to make something smaller -->
 - [ ] stable                           <!-- firmly fixed or not likely to move or change -->
+
+## Feb 3, 2024
+### Time Efficiency Target Words
