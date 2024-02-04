@@ -57,13 +57,13 @@
 
 ## Feb 3, 2024
 ### Time Efficiency
-- [ ] adjust                           <!-- Meaning -->
-- [ ] arbitrary                        <!-- Meaning -->
-- [ ] denominator                      <!-- Meaning -->
-- [ ] exponentially                    <!-- Meaning -->
-- [ ] infinitesimal                    <!-- Meaning -->
-- [ ] maximize                         <!-- Meaning -->
-- [ ] parallel                         <!-- Meaning -->
-- [ ] proportion                       <!-- Meaning -->
-- [ ] rate                             <!-- Meaning -->
-- [ ] sequence                         <!-- Meaning -->
+- [ ] adjust                           <!-- to change something slightly, especially to make it more correct, effective, or suitable -->
+- [ ] arbitrary                        <!-- based on chance rather than being planned or based on reason -->
+- [ ] denominator                      <!-- the number below the line in a fraction -->
+- [ ] exponentially                    <!-- in a way that becomes quicker and quicker as something that increases becomes larger -->
+- [ ] infinitesimal                    <!-- extremely small -->
+- [ ] maximize                         <!-- to make something as great in amount, size, or importance as possible -->
+- [ ] parallel                         <!-- used to describe an event or situation that happens at the same time as and/or is similar to another one -->
+- [ ] proportion                       <!-- the number, amount, or level of one thing when compared to another -->
+- [ ] rate                             <!-- the speed at which something happens or changes, or the amount or number of times it happens or changes in a particular period -->
+- [ ] sequence                         <!-- a series of related things or events, or the order in which they follow each other -->
