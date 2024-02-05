@@ -83,3 +83,14 @@
 
 ## Feb 5, 2024
 ### Computers
+- [ ] circulate
+- [ ] corrode
+- [ ] derive
+- [ ] detection
+- [ ] expeditiously
+- [ ] implement
+- [ ] innovative
+- [ ] installation
+- [ ] maintenance
+- [ ] simulation
+
