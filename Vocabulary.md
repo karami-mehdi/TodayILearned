@@ -70,3 +70,14 @@
 
 ## Feb 4, 2024
 ### Ancient Life
+- [ ] accuracy
+- [ ] adjacent
+- [ ] compress
+- [ ] feasibly
+- [ ] gut
+- [ ] integrally
+- [ ] overlap
+- [ ] retain
+- [ ] seep
+- [ ] structure
+
