@@ -70,14 +70,14 @@
 
 ## Feb 4, 2024
 ### Ancient Life
-- [ ] accuracy
-- [ ] adjacent
-- [ ] compress
-- [ ] feasibly
-- [ ] gut
-- [ ] integrally
-- [ ] overlap
-- [ ] retain
-- [ ] seep
-- [ ] structure
+- [ ] accuracy                         <!-- Meaning -->
+- [ ] adjacent                         <!-- Meaning -->
+- [ ] compress                         <!-- Meaning -->
+- [ ] feasibly                         <!-- Meaning -->
+- [ ] gut                              <!-- Meaning -->
+- [ ] integrally                       <!-- Meaning -->
+- [ ] overlap                          <!-- Meaning -->
+- [ ] retain                           <!-- Meaning -->
+- [ ] seep                             <!-- Meaning -->
+- [ ] structure                        <!-- Meaning -->
 
