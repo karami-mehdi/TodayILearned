@@ -81,3 +81,5 @@
 - [ ] seep                             <!-- Meaning -->
 - [ ] structure                        <!-- Meaning -->
 
+## Feb 5, 2024
+### Computers
