@@ -83,14 +83,14 @@
 
 ## Feb 5, 2024
 ### Computers
-- [ ] circulate
-- [ ] corrode
-- [ ] derive
-- [ ] detection
-- [ ] expeditiously
-- [ ] implement
-- [ ] innovative
-- [ ] installation
-- [ ] maintenance
-- [ ] simulation
+- [ ] circulate                        <!-- Meaning -->
+- [ ] corrode                          <!-- Meaning -->
+- [ ] derive                           <!-- Meaning -->
+- [ ] detection                        <!-- Meaning -->
+- [ ] expeditiously                    <!-- Meaning -->
+- [ ] implement                        <!-- Meaning -->
+- [ ] innovative                       <!-- Meaning -->
+- [ ] installation                     <!-- Meaning -->
+- [ ] maintenance                      <!-- Meaning -->
+- [ ] simulation                       <!-- Meaning -->
 
