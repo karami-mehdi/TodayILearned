@@ -67,3 +67,6 @@
 - [ ] proportion                       <!-- the number, amount, or level of one thing when compared to another -->
 - [ ] rate                             <!-- the speed at which something happens or changes, or the amount or number of times it happens or changes in a particular period -->
 - [ ] sequence                         <!-- a series of related things or events, or the order in which they follow each other -->
+
+## Feb 4, 2024
+### Ancient Life
