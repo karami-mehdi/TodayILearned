@@ -94,3 +94,5 @@
 - [ ] maintenance                      <!-- Meaning -->
 - [ ] simulation                       <!-- Meaning -->
 
+## Feb 6, 2024
+### Energy
