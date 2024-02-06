@@ -96,3 +96,13 @@
 
 ## Feb 6, 2024
 ### Energy
+- [ ] combustion
+- [ ] component
+- [ ] convey
+- [ ] discretely
+- [ ] nucleus
+- [ ] permeate
+- [ ] rotate
+- [ ] solar
+- [ ] source
+- [ ] trigger
