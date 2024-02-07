@@ -122,3 +122,13 @@
 
 ## Feb 8, 2024
 ### Spirituality
+- [ ] agnostic
+- [ ] animism
+- [ ] atheist
+- [ ] be inclined to
+- [ ] contemplate
+- [ ] deify
+- [ ] ecclesiastical
+- [ ] exalt
+- [ ] pious
+- [ ] sacrifice
