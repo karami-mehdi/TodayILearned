@@ -106,3 +106,6 @@
 - [ ] solar                            <!-- Meaning -->
 - [ ] source                           <!-- Meaning -->
 - [ ] trigger                          <!-- Meaning -->
+
+## Feb 7, 2024
+### Memory
