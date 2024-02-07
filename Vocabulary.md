@@ -109,3 +109,14 @@
 
 ## Feb 7, 2024
 ### Memory
+- [ ] acquisition
+- [ ] anomaly
+- [ ] consciously
+- [ ] degrade
+- [ ] gap
+- [ ] indisputable
+- [ ] intervene
+- [ ] intuitively
+- [ ] recede
+- [ ] retrieve
+
