@@ -135,3 +135,13 @@
 
 ## Feb 9, 2024
 ### Illness
+- [ ] aggravate
+- [ ] decrepit
+- [ ] disease
+- [ ] fatally
+- [ ] forensics
+- [ ] persist
+- [ ] prognosis
+- [ ] terminal
+- [ ] vein
+- [ ] wound
