@@ -160,3 +160,4 @@
 - [ ] scar                             <!-- Meaning -->
 
 ## Feb 11, 2024
+### Ghosts
