@@ -148,3 +148,13 @@
 
 ## Feb 10, 2024
 ### Surgery
+- [ ] anesthesia
+- [ ] augment
+- [ ] certifiably
+- [ ] complication
+- [ ] cure
+- [ ] implant
+- [ ]  inject
+- [ ] obese
+- [ ] procedure
+- [ ] scar
