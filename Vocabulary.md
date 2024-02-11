@@ -174,13 +174,13 @@
 
 ## Feb 12, 2024
 ### Anthropology
-- [ ] assimilate
-- [ ] cremation
-- [ ] domesticate
-- [ ] folklore
-- [ ] fossilize
-- [ ] relic
-- [ ] rite
-- [ ] ritually
-- [ ] saga
-- [ ] vestige
+- [ ] assimilate                     <!-- Meaning -->
+- [ ] cremation                      <!-- Meaning -->
+- [ ] domesticate                    <!-- Meaning -->
+- [ ] folklore                       <!-- Meaning -->
+- [ ] fossilize                      <!-- Meaning -->
+- [ ] relic                          <!-- Meaning -->
+- [ ] rite                           <!-- Meaning -->
+- [ ] ritually                       <!-- Meaning -->
+- [ ] saga                           <!-- Meaning -->
+- [ ] vestige                        <!-- Meaning -->
