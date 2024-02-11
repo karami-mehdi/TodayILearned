@@ -187,3 +187,13 @@
 
 ## Feb 13, 2024
 ### Social Inequality
+- [ ] amend
+- [ ] biased
+- [ ] burden
+- [ ] counter
+- [ ] de facto
+- [ ] discriminate
+- [ ] notion
+- [ ] oppress
+- [ ] paradigm
+- [ ] prejudiced
