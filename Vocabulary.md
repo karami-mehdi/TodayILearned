@@ -148,13 +148,13 @@
 
 ## Feb 10, 2024
 ### Surgery
-- [ ] anesthesia
-- [ ] augment
-- [ ] certifiably
-- [ ] complication
-- [ ] cure
-- [ ] implant
-- [ ]  inject
-- [ ] obese
-- [ ] procedure
-- [ ] scar
+- [ ] anesthesia                       <!-- Meaning -->
+- [ ] augment                          <!-- Meaning -->
+- [ ] certifiably                      <!-- Meaning -->
+- [ ] complication                     <!-- Meaning -->
+- [ ] cure                             <!-- Meaning -->
+- [ ] implant                          <!-- Meaning -->
+- [ ]  inject                          <!-- Meaning -->
+- [ ] obese                            <!-- Meaning -->
+- [ ] procedure                        <!-- Meaning -->
+- [ ] scar                             <!-- Meaning -->
