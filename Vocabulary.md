@@ -186,3 +186,4 @@
 - [ ] vestige                        <!-- Meaning -->
 
 ## Feb 13, 2024
+### Social Inequality
