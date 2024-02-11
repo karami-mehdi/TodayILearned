@@ -161,13 +161,13 @@
 
 ## Feb 11, 2024
 ### Ghosts
-- [ ] astrological
-- [ ] divination
-- [ ] haunt
-- [ ] horror
-- [ ] intermediary
-- [ ] invoke
-- [ ] meditate
-- [ ] phantom
-- [ ] psychic
-- [ ] self-perpetuating
+- [ ] astrological                    <!-- Meaning -->
+- [ ] divination                      <!-- Meaning -->
+- [ ] haunt                           <!-- Meaning -->
+- [ ] horror                          <!-- Meaning -->
+- [ ] intermediary                    <!-- Meaning -->
+- [ ] invoke                          <!-- Meaning -->
+- [ ] meditate                        <!-- Meaning -->
+- [ ] phantom                         <!-- Meaning -->
+- [ ] psychic                         <!-- Meaning -->
+- [ ] self-perpetuating               <!-- Meaning -->
