@@ -174,3 +174,13 @@
 
 ## Feb 12, 2024
 ### Anthropology
+- [ ] assimilate
+- [ ] cremation
+- [ ] domesticate
+- [ ] folklore
+- [ ] fossilize
+- [ ] relic
+- [ ] rite
+- [ ] ritually
+- [ ] saga
+- [ ] vestige
