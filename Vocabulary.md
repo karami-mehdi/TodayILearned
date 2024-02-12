@@ -18,16 +18,16 @@
 
 ## Jan 31, 2024
 ### Disaster
-- [ ] anticipate                       <!-- to imagine or expect that something will happen -->
-- [ ] catastrophic                     <!-- causing sudden and very great harm or destruction -->
-- [ ] collide                          <!-- (especially of moving objects) to hit something violently -->
-- [ ] eruption                         <!-- an occasion when a volcano explodes, and flames and rocks come out of it, or the act of doing this -->
-- [ ] famine                           <!-- a situation in which there is not enough food for a great number of people -->
-- [ ] flood                            <!-- to cause to fill or become covered with water, especially in a way that causes problems -->
-- [ ] impact                           <!-- to have an influence on something -->
-- [ ] persevere                        <!-- to continue to exist despite a difficult or changing situation -->
-- [ ] plunge                           <!-- to move or fall suddenly and often a long way forward, down, or into something -->
-- [ ] unleash                          <!-- to suddenly release a violent force that cannot be controlled -->
+- [x] anticipate                       <!-- to imagine or expect that something will happen -->
+- [x] catastrophic                     <!-- causing sudden and very great harm or destruction -->
+- [z] collide                          <!-- (especially of moving objects) to hit something violently -->
+- [x] eruption                         <!-- an occasion when a volcano explodes, and flames and rocks come out of it, or the act of doing this -->
+- [x] famine                           <!-- a situation in which there is not enough food for a great number of people -->
+- [x] flood                            <!-- to cause to fill or become covered with water, especially in a way that causes problems -->
+- [x] impact                           <!-- to have an influence on something -->
+- [x] persevere                        <!-- to continue to exist despite a difficult or changing situation -->
+- [x] plunge                           <!-- to move or fall suddenly and often a long way forward, down, or into something -->
+- [x] unleash                          <!-- to suddenly release a violent force that cannot be controlled -->
 
 ## Feb 1, 2024
 ### Evolution and Migration
