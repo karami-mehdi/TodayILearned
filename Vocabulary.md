@@ -20,7 +20,7 @@
 ### Disaster
 - [x] anticipate                       <!-- to imagine or expect that something will happen -->
 - [x] catastrophic                     <!-- causing sudden and very great harm or destruction -->
-- [z] collide                          <!-- (especially of moving objects) to hit something violently -->
+- [x] collide                          <!-- (especially of moving objects) to hit something violently -->
 - [x] eruption                         <!-- an occasion when a volcano explodes, and flames and rocks come out of it, or the act of doing this -->
 - [x] famine                           <!-- a situation in which there is not enough food for a great number of people -->
 - [x] flood                            <!-- to cause to fill or become covered with water, especially in a way that causes problems -->
