@@ -31,16 +31,16 @@
 
 ## Feb 1, 2024
 ### Evolution and Migration
-- [ ] adapt                            <!-- to change, or to change something, to suit different conditions or uses -->
-- [ ] diverse                          <!-- including many different types of people or things -->
-- [ ] evolve                           <!-- to develop gradually, or to cause something or someone to develop gradually -->
-- [ ] feature                          <!-- a typical quality or an important part of something -->
-- [ ] generation                       <!-- all the people of about the same age within a society or within a particular family -->
-- [ ] inherent                         <!-- existing as a natural or basic part of something -->
-- [ ] migration                        <!-- movement from one region to another and often back again -->
-- [ ] physical                         <!-- relating to the body -->
-- [ ] process                          <!-- a series of actions that you take in order to achieve a result -->
-- [ ] survive                          <!-- to continue to live or exist, especially after being in a difficult or threatening situation -->
+- [x] adapt                            <!-- to change, or to change something, to suit different conditions or uses -->
+- [x] diverse                          <!-- including many different types of people or things -->
+- [x] evolve                           <!-- to develop gradually, or to cause something or someone to develop gradually -->
+- [x] feature                          <!-- a typical quality or an important part of something -->
+- [x] generation                       <!-- all the people of about the same age within a society or within a particular family -->
+- [x] inherent                         <!-- existing as a natural or basic part of something -->
+- [x] migration                        <!-- movement from one region to another and often back again -->
+- [x] physical                         <!-- relating to the body -->
+- [x] process                          <!-- a series of actions that you take in order to achieve a result -->
+- [x] survive                          <!-- to continue to live or exist, especially after being in a difficult or threatening situation -->
 
 ## Feb 2, 2024
 ### Petroleum Alternatives
