@@ -96,16 +96,16 @@
 
 ## Feb 6, 2024
 ### Energy
-- [ ] combustion                       <!-- Meaning -->
-- [ ] component                        <!-- Meaning -->
-- [ ] convey                           <!-- Meaning -->
-- [ ] discretely                       <!-- Meaning -->
-- [ ] nucleus                          <!-- Meaning -->
-- [ ] permeate                         <!-- Meaning -->
-- [ ] rotate                           <!-- Meaning -->
-- [ ] solar                            <!-- Meaning -->
-- [ ] source                           <!-- Meaning -->
-- [ ] trigger                          <!-- Meaning -->
+- [x] combustion                       <!-- Meaning -->
+- [x] component                        <!-- Meaning -->
+- [x] convey                           <!-- Meaning -->
+- [x] discretely                       <!-- Meaning -->
+- [x] nucleus                          <!-- Meaning -->
+- [x] permeate                         <!-- Meaning -->
+- [x] rotate                           <!-- Meaning -->
+- [x] solar                            <!-- Meaning -->
+- [x] source                           <!-- Meaning -->
+- [x] trigger                          <!-- Meaning -->
 
 ## Feb 7, 2024
 ### Memory
