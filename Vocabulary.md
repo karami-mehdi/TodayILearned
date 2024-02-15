@@ -202,4 +202,4 @@
 ### Expertise
 
 ## Feb 15, 2024
-
+### Military Operations
