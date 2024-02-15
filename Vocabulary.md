@@ -199,6 +199,7 @@
 - [ ] prejudiced                    <!-- Meaning -->
 
 ## Feb 14, 2024
+### Expertise
 
 ## Feb 15, 2024
 
