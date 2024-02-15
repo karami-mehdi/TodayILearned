@@ -70,16 +70,16 @@
 
 ## Feb 4, 2024
 ### Ancient Life
-- [ ] accuracy                         <!-- Meaning -->
-- [ ] adjacent                         <!-- Meaning -->
-- [ ] compress                         <!-- Meaning -->
-- [ ] feasibly                         <!-- Meaning -->
-- [ ] gut                              <!-- Meaning -->
-- [ ] integrally                       <!-- Meaning -->
-- [ ] overlap                          <!-- Meaning -->
-- [ ] retain                           <!-- Meaning -->
-- [ ] seep                             <!-- Meaning -->
-- [ ] structure                        <!-- Meaning -->
+- [x] accuracy                         <!-- Meaning -->
+- [x] adjacent                         <!-- Meaning -->
+- [x] compress                         <!-- Meaning -->
+- [x] feasibly                         <!-- Meaning -->
+- [x] gut                              <!-- Meaning -->
+- [x] integrally                       <!-- Meaning -->
+- [x] overlap                          <!-- Meaning -->
+- [x] retain                           <!-- Meaning -->
+- [x] seep                             <!-- Meaning -->
+- [x] structure                        <!-- Meaning -->
 
 ## Feb 5, 2024
 ### Computers
