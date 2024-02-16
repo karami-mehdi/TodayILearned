@@ -200,16 +200,16 @@
 
 ## Feb 14, 2024
 ### Expertise
-- [ ] curriculum
-- [ ] distinctly
-- [ ] erudite
-- [ ] fortify
-- [ ] implicitly
-- [ ] parochial
-- [ ] rigor
-- [ ] roster
-- [ ] secular
-- [ ] suspend
+- [ ] curriculum                    <!-- Meaning -->
+- [ ] distinctly                    <!-- Meaning -->
+- [ ] erudite                       <!-- Meaning -->
+- [ ] fortify                       <!-- Meaning -->
+- [ ] implicitly                    <!-- Meaning -->
+- [ ] parochial                     <!-- Meaning -->
+- [ ] rigor                         <!-- Meaning -->
+- [ ] roster                        <!-- Meaning -->
+- [ ] secular                       <!-- Meaning -->
+- [ ] suspend                       <!-- Meaning -->
 
 ## Feb 15, 2024
 ### Military Operations
