@@ -200,6 +200,16 @@
 
 ## Feb 14, 2024
 ### Expertise
+- [ ] curriculum
+- [ ] distinctly
+- [ ] erudite
+- [ ] fortify
+- [ ] implicitly
+- [ ] parochial
+- [ ] rigor
+- [ ] roster
+- [ ] secular
+- [ ] suspend
 
 ## Feb 15, 2024
 ### Military Operations
