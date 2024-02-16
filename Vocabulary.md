@@ -226,13 +226,13 @@
 
 ## Feb 16, 2024
 ### War and Conquest
-- [ ] annex
-- [ ] apex
-- [ ] collapse
-- [ ] conquest
-- [ ] devise
-- [ ] invasive
-- [ ] prevailing
-- [ ] resist
-- [ ] severely
-- [ ] violation
+- [ ] annex                         <!-- Meaning -->
+- [ ] apex                          <!-- Meaning -->
+- [ ] collapse                      <!-- Meaning -->
+- [ ] conquest                      <!-- Meaning -->
+- [ ] devise                        <!-- Meaning -->
+- [ ] invasive                      <!-- Meaning -->
+- [ ] prevailing                    <!-- Meaning -->
+- [ ] resist                        <!-- Meaning -->
+- [ ] severely                      <!-- Meaning -->
+- [ ] violation                     <!-- Meaning -->
