@@ -213,6 +213,16 @@
 
 ## Feb 15, 2024
 ### Military Operations
+- [ ] allegiance
+- [ ] artillery
+- [ ] battle
+- [ ] cease
+- [ ] hierarchy
+- [ ] in the trenches
+- [ ] mobilize
+- [ ] rank
+- [ ] ratio
+- [ ] strategic
 
 ## Feb 16, 2024
 ### War and Conquest
