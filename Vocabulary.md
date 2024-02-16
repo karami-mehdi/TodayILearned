@@ -226,3 +226,13 @@
 
 ## Feb 16, 2024
 ### War and Conquest
+- [ ] annex
+- [ ] apex
+- [ ] collapse
+- [ ] conquest
+- [ ] devise
+- [ ] invasive
+- [ ] prevailing
+- [ ] resist
+- [ ] severely
+- [ ] violation
