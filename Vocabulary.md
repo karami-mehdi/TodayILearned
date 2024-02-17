@@ -239,3 +239,13 @@
 
 ## Feb 17, 2024
 ### History
+- [ ] chronologically
+- [ ] coincide
+- [ ] consequence
+- [ ] core
+- [ ] deny
+- [ ] diminish
+- [ ] longitude
+- [ ] milieu
+- [ ] Orwellian
+- [ ] reconciliation
