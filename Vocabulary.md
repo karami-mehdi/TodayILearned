@@ -83,16 +83,16 @@
 
 ## Feb 5, 2024
 ### Computers
-- [x] circulate                        <!-- Meaning -->
-- [x] corrode                          <!-- Meaning -->
-- [x] derive                           <!-- Meaning -->
-- [x] detection                        <!-- Meaning -->
-- [x] expeditiously                    <!-- Meaning -->
-- [x] implement                        <!-- Meaning -->
-- [x] innovative                       <!-- Meaning -->
-- [x] installation                     <!-- Meaning -->
-- [x] maintenance                      <!-- Meaning -->
-- [x] simulation                       <!-- Meaning -->
+- [x] circulate                        <!-- to go around or through something, or to make something go around or through something -->
+- [x] corrode                          <!-- if metal corrodes, or if something corrodes it, it is slowly damaged by something such as rain or water -->
+- [x] derive                           <!-- to get or obtain something -->
+- [x] detection                        <!-- the fact of noticing or discovering something -->
+- [x] expeditiously                    <!-- quickly -->
+- [x] implement                        <!-- to start using a plan or system -->
+- [x] innovative                       <!-- using new methods or ideas -->
+- [x] installation                     <!-- the act of putting furniture, a machine, or a piece of equipment into position and making it ready to use -->
+- [x] maintenance                      <!-- the work needed to keep a road, building, machine, etc. in good condition -->
+- [x] simulation                       <!-- a model of a set of problems or events that can be used to teach someone how to do something -->
 
 ## Feb 6, 2024
 ### Energy
