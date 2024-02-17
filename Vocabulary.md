@@ -122,16 +122,16 @@
 
 ## Feb 8, 2024
 ### Spirituality
-- [ ] agnostic                         <!-- Meaning -->
-- [ ] animism                          <!-- Meaning -->
-- [ ] atheist                          <!-- Meaning -->
-- [ ] be inclined to                   <!-- Meaning -->
-- [ ] contemplate                      <!-- Meaning -->
-- [ ] deify                            <!-- Meaning -->
-- [ ] ecclesiastical                   <!-- Meaning -->
-- [ ] exalt                            <!-- Meaning -->
-- [ ] pious                            <!-- Meaning -->
-- [ ] sacrifice                        <!-- Meaning -->
+- [x] agnostic                         <!-- Meaning -->
+- [x] animism                          <!-- Meaning -->
+- [x] atheist                          <!-- Meaning -->
+- [x] be inclined to                   <!-- Meaning -->
+- [x] contemplate                      <!-- Meaning -->
+- [x] deify                            <!-- Meaning -->
+- [x] ecclesiastical                   <!-- Meaning -->
+- [x] exalt                            <!-- Meaning -->
+- [x] pious                            <!-- Meaning -->
+- [x] sacrifice                        <!-- Meaning -->
 
 ## Feb 9, 2024
 ### Illness
