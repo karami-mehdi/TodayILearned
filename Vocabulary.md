@@ -96,16 +96,16 @@
 
 ## Feb 6, 2024
 ### Energy
-- [x] combustion                       <!-- Meaning -->
-- [x] component                        <!-- Meaning -->
-- [x] convey                           <!-- Meaning -->
-- [x] discretely                       <!-- Meaning -->
-- [x] nucleus                          <!-- Meaning -->
-- [x] permeate                         <!-- Meaning -->
-- [x] rotate                           <!-- Meaning -->
-- [x] solar                            <!-- Meaning -->
-- [x] source                           <!-- Meaning -->
-- [x] trigger                          <!-- Meaning -->
+- [x] combustion                       <!-- the process of burning -->
+- [x] component                        <!-- a part that combines with other parts to form something bigger -->
+- [x] convey                           <!-- to take or carry someone or something to a particular place -->
+- [x] discretely                       <!-- in a way that is clearly separate from the rest or from other parts -->
+- [x] nucleus                          <!-- the central part of something -->
+- [x] permeate                         <!-- to spread through something and be present in every part of it -->
+- [x] rotate                           <!-- to turn or cause something to turn in a circle, especially around a fixed point -->
+- [x] solar                            <!-- of or from the sun, or using the energy from the sun to produce electric power -->
+- [x] source                           <!-- something or someone that causes or produces something, or is the origin of it -->
+- [x] trigger                          <!-- to cause something to start -->
 
 ## Feb 7, 2024
 ### Memory
