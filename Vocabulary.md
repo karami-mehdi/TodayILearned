@@ -239,13 +239,13 @@
 
 ## Feb 17, 2024
 ### History
-- [ ] chronologically
-- [ ] coincide
-- [ ] consequence
-- [ ] core
-- [ ] deny
-- [ ] diminish
-- [ ] longitude
-- [ ] milieu
-- [ ] Orwellian
-- [ ] reconciliation
+- [ ] chronologically               <!-- Meaning -->
+- [ ] coincide                      <!-- Meaning -->
+- [ ] consequence                   <!-- Meaning -->
+- [ ] core                          <!-- Meaning -->
+- [ ] deny                          <!-- Meaning -->
+- [ ] diminish                      <!-- Meaning -->
+- [ ] longitude                     <!-- Meaning -->
+- [ ] milieu                        <!-- Meaning -->
+- [ ] Orwellian                     <!-- Meaning -->
+- [ ] reconciliation                <!-- Meaning -->
