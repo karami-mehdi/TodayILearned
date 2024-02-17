@@ -70,16 +70,16 @@
 
 ## Feb 4, 2024
 ### Ancient Life
-- [x] accuracy                         <!-- Meaning -->
-- [x] adjacent                         <!-- Meaning -->
-- [x] compress                         <!-- Meaning -->
-- [x] feasibly                         <!-- Meaning -->
-- [x] gut                              <!-- Meaning -->
-- [x] integrally                       <!-- Meaning -->
-- [x] overlap                          <!-- Meaning -->
-- [x] retain                           <!-- Meaning -->
-- [x] seep                             <!-- Meaning -->
-- [x] structure                        <!-- Meaning -->
+- [x] accuracy                         <!-- the fact of being exact or correct -->
+- [x] adjacent                         <!-- very near, next to, or touching -->
+- [x] compress                         <!-- to press something into a smaller space -->
+- [x] feasibly                         <!-- in a way that could be made, done, or achieved; possibly -->
+- [x] gut                              <!-- to destroy or remove the inside parts of a building -->
+- [x] integrally                       <!-- in way that is necessary and important as a part of a whole -->
+- [x] overlap                          <!-- to cover something partly by going over its edge -->
+- [x] retain                           <!-- to keep or continue to have something -->
+- [x] seep                             <!-- to move or spread slowly out of a hole or through something -->
+- [x] structure                        <!-- the way in which the parts of a system or object are arranged or organized, or a system arranged in this way -->
 
 ## Feb 5, 2024
 ### Computers
