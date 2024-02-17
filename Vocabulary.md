@@ -161,91 +161,91 @@
 
 ## Feb 11, 2024
 ### Ghosts
-- [ ] astrological                    <!-- Meaning -->
-- [ ] divination                      <!-- Meaning -->
-- [ ] haunt                           <!-- Meaning -->
-- [ ] horror                          <!-- Meaning -->
-- [ ] intermediary                    <!-- Meaning -->
-- [ ] invoke                          <!-- Meaning -->
-- [ ] meditate                        <!-- Meaning -->
-- [ ] phantom                         <!-- Meaning -->
-- [ ] psychic                         <!-- Meaning -->
-- [ ] self-perpetuating               <!-- Meaning -->
+- [ ] astrological                     <!-- Meaning -->
+- [ ] divination                       <!-- Meaning -->
+- [ ] haunt                            <!-- Meaning -->
+- [ ] horror                           <!-- Meaning -->
+- [ ] intermediary                     <!-- Meaning -->
+- [ ] invoke                           <!-- Meaning -->
+- [ ] meditate                         <!-- Meaning -->
+- [ ] phantom                          <!-- Meaning -->
+- [ ] psychic                          <!-- Meaning -->
+- [ ] self-perpetuating                <!-- Meaning -->
 
 ## Feb 12, 2024
 ### Anthropology
-- [ ] assimilate                     <!-- Meaning -->
-- [ ] cremation                      <!-- Meaning -->
-- [ ] domesticate                    <!-- Meaning -->
-- [ ] folklore                       <!-- Meaning -->
-- [ ] fossilize                      <!-- Meaning -->
-- [ ] relic                          <!-- Meaning -->
-- [ ] rite                           <!-- Meaning -->
-- [ ] ritually                       <!-- Meaning -->
-- [ ] saga                           <!-- Meaning -->
-- [ ] vestige                        <!-- Meaning -->
+- [ ] assimilate                       <!-- Meaning -->
+- [ ] cremation                        <!-- Meaning -->
+- [ ] domesticate                      <!-- Meaning -->
+- [ ] folklore                         <!-- Meaning -->
+- [ ] fossilize                        <!-- Meaning -->
+- [ ] relic                            <!-- Meaning -->
+- [ ] rite                             <!-- Meaning -->
+- [ ] ritually                         <!-- Meaning -->
+- [ ] saga                             <!-- Meaning -->
+- [ ] vestige                          <!-- Meaning -->
 
 ## Feb 13, 2024
 ### Social Inequality
-- [ ] amend                         <!-- Meaning -->
-- [ ] biased                        <!-- Meaning -->
-- [ ] burden                        <!-- Meaning -->
-- [ ] counter                       <!-- Meaning -->
-- [ ] de facto                      <!-- Meaning -->
-- [ ] discriminate                  <!-- Meaning -->
-- [ ] notion                        <!-- Meaning -->
-- [ ] oppress                       <!-- Meaning -->
-- [ ] paradigm                      <!-- Meaning -->
-- [ ] prejudiced                    <!-- Meaning -->
+- [ ] amend                            <!-- Meaning -->
+- [ ] biased                           <!-- Meaning -->
+- [ ] burden                           <!-- Meaning -->
+- [ ] counter                          <!-- Meaning -->
+- [ ] de facto                         <!-- Meaning -->
+- [ ] discriminate                     <!-- Meaning -->
+- [ ] notion                           <!-- Meaning -->
+- [ ] oppress                          <!-- Meaning -->
+- [ ] paradigm                         <!-- Meaning -->
+- [ ] prejudiced                       <!-- Meaning -->
 
 ## Feb 14, 2024
 ### Expertise
-- [ ] curriculum                    <!-- Meaning -->
-- [ ] distinctly                    <!-- Meaning -->
-- [ ] erudite                       <!-- Meaning -->
-- [ ] fortify                       <!-- Meaning -->
-- [ ] implicitly                    <!-- Meaning -->
-- [ ] parochial                     <!-- Meaning -->
-- [ ] rigor                         <!-- Meaning -->
-- [ ] roster                        <!-- Meaning -->
-- [ ] secular                       <!-- Meaning -->
-- [ ] suspend                       <!-- Meaning -->
+- [ ] curriculum                       <!-- Meaning -->
+- [ ] distinctly                       <!-- Meaning -->
+- [ ] erudite                          <!-- Meaning -->
+- [ ] fortify                          <!-- Meaning -->
+- [ ] implicitly                       <!-- Meaning -->
+- [ ] parochial                        <!-- Meaning -->
+- [ ] rigor                            <!-- Meaning -->
+- [ ] roster                           <!-- Meaning -->
+- [ ] secular                          <!-- Meaning -->
+- [ ] suspend                          <!-- Meaning -->
 
 ## Feb 15, 2024
 ### Military Operations
-- [ ] allegiance                    <!-- Meaning -->
-- [ ] artillery                     <!-- Meaning -->
-- [ ] battle                        <!-- Meaning -->
-- [ ] cease                         <!-- Meaning -->
-- [ ] hierarchy                     <!-- Meaning -->
-- [ ] in the trenches               <!-- Meaning -->
-- [ ] mobilize                      <!-- Meaning -->
-- [ ] rank                          <!-- Meaning -->
-- [ ] ratio                         <!-- Meaning -->
-- [ ] strategic                     <!-- Meaning -->
+- [ ] allegiance                       <!-- Meaning -->
+- [ ] artillery                        <!-- Meaning -->
+- [ ] battle                           <!-- Meaning -->
+- [ ] cease                            <!-- Meaning -->
+- [ ] hierarchy                        <!-- Meaning -->
+- [ ] in the trenches                  <!-- Meaning -->
+- [ ] mobilize                         <!-- Meaning -->
+- [ ] rank                             <!-- Meaning -->
+- [ ] ratio                            <!-- Meaning -->
+- [ ] strategic                        <!-- Meaning -->
 
 ## Feb 16, 2024
 ### War and Conquest
-- [ ] annex                         <!-- Meaning -->
-- [ ] apex                          <!-- Meaning -->
-- [ ] collapse                      <!-- Meaning -->
-- [ ] conquest                      <!-- Meaning -->
-- [ ] devise                        <!-- Meaning -->
-- [ ] invasive                      <!-- Meaning -->
-- [ ] prevailing                    <!-- Meaning -->
-- [ ] resist                        <!-- Meaning -->
-- [ ] severely                      <!-- Meaning -->
-- [ ] violation                     <!-- Meaning -->
+- [ ] annex                            <!-- Meaning -->
+- [ ] apex                             <!-- Meaning -->
+- [ ] collapse                         <!-- Meaning -->
+- [ ] conquest                         <!-- Meaning -->
+- [ ] devise                           <!-- Meaning -->
+- [ ] invasive                         <!-- Meaning -->
+- [ ] prevailing                       <!-- Meaning -->
+- [ ] resist                           <!-- Meaning -->
+- [ ] severely                         <!-- Meaning -->
+- [ ] violation                        <!-- Meaning -->
 
 ## Feb 17, 2024
 ### History
-- [ ] chronologically               <!-- Meaning -->
-- [ ] coincide                      <!-- Meaning -->
-- [ ] consequence                   <!-- Meaning -->
-- [ ] core                          <!-- Meaning -->
-- [ ] deny                          <!-- Meaning -->
-- [ ] diminish                      <!-- Meaning -->
-- [ ] longitude                     <!-- Meaning -->
-- [ ] milieu                        <!-- Meaning -->
-- [ ] Orwellian                     <!-- Meaning -->
-- [ ] reconciliation                <!-- Meaning -->
+- [ ] chronologically                  <!-- Meaning -->
+- [ ] coincide                         <!-- Meaning -->
+- [ ] consequence                      <!-- Meaning -->
+- [ ] core                             <!-- Meaning -->
+- [ ] deny                             <!-- Meaning -->
+- [ ] diminish                         <!-- Meaning -->
+- [ ] longitude                        <!-- Meaning -->
+- [ ] milieu                           <!-- Meaning -->
+- [ ] Orwellian                        <!-- Meaning -->
+- [ ] reconciliation                   <!-- Meaning -->
