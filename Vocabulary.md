@@ -109,16 +109,16 @@
 
 ## Feb 7, 2024
 ### Memory
-- [ ] acquisition                      <!-- Meaning -->
-- [ ] anomaly                          <!-- Meaning -->
-- [ ] consciously                      <!-- Meaning -->
-- [ ] degrade                          <!-- Meaning -->
-- [ ] gap                              <!-- Meaning -->
-- [ ] indisputable                     <!-- Meaning -->
-- [ ] intervene                        <!-- Meaning -->
-- [ ] intuitively                      <!-- Meaning -->
-- [ ] recede                           <!-- Meaning -->
-- [ ] retrieve                         <!-- Meaning -->
+- [x] acquisition                      <!-- Meaning -->
+- [x] anomaly                          <!-- Meaning -->
+- [x] consciously                      <!-- Meaning -->
+- [x] degrade                          <!-- Meaning -->
+- [x] gap                              <!-- Meaning -->
+- [x] indisputable                     <!-- Meaning -->
+- [x] intervene                        <!-- Meaning -->
+- [x] intuitively                      <!-- Meaning -->
+- [x] recede                           <!-- Meaning -->
+- [x] retrieve                         <!-- Meaning -->
 
 ## Feb 8, 2024
 ### Spirituality
