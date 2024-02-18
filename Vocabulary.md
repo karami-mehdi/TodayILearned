@@ -135,16 +135,16 @@
 
 ## Feb 9, 2024
 ### Illness
-- [ ] aggravate                        <!-- Meaning -->
-- [ ] decrepit                         <!-- Meaning -->
-- [ ] disease                          <!-- Meaning -->
-- [ ] fatally                          <!-- Meaning -->
-- [ ] forensics                        <!-- Meaning -->
-- [ ] persist                          <!-- Meaning -->
-- [ ] prognosis                        <!-- Meaning -->
-- [ ] terminal                         <!-- Meaning -->
-- [ ] vein                             <!-- Meaning -->
-- [ ] wound                            <!-- Meaning -->
+- [x] aggravate                        <!-- Meaning -->
+- [x] decrepit                         <!-- Meaning -->
+- [x] disease                          <!-- Meaning -->
+- [x] fatally                          <!-- Meaning -->
+- [x] forensics                        <!-- Meaning -->
+- [x] persist                          <!-- Meaning -->
+- [x] prognosis                        <!-- Meaning -->
+- [x] terminal                         <!-- Meaning -->
+- [x] vein                             <!-- Meaning -->
+- [x] wound                            <!-- Meaning -->
 
 ## Feb 10, 2024
 ### Surgery
