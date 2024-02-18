@@ -148,16 +148,16 @@
 
 ## Feb 10, 2024
 ### Surgery
-- [ ] anesthesia                       <!-- Meaning -->
-- [ ] augment                          <!-- Meaning -->
-- [ ] certifiably                      <!-- Meaning -->
-- [ ] complication                     <!-- Meaning -->
-- [ ] cure                             <!-- Meaning -->
-- [ ] implant                          <!-- Meaning -->
-- [ ]  inject                          <!-- Meaning -->
-- [ ] obese                            <!-- Meaning -->
-- [ ] procedure                        <!-- Meaning -->
-- [ ] scar                             <!-- Meaning -->
+- [x] anesthesia                       <!-- Meaning -->
+- [x] augment                          <!-- Meaning -->
+- [x] certifiably                      <!-- Meaning -->
+- [x] complication                     <!-- Meaning -->
+- [x] cure                             <!-- Meaning -->
+- [x] implant                          <!-- Meaning -->
+- [x]  inject                          <!-- Meaning -->
+- [x] obese                            <!-- Meaning -->
+- [x] procedure                        <!-- Meaning -->
+- [x] scar                             <!-- Meaning -->
 
 ## Feb 11, 2024
 ### Ghosts
