@@ -252,3 +252,13 @@
 
 ## Feb 18, 2024
 ### Financial Systems
+- [ ] allocate
+- [ ] commodity
+- [ ] decline
+- [ ] equity
+- [ ] inflation
+- [ ] net
+- [ ] per capita
+- [ ] regulate
+- [ ] subsidy
+- [ ] tangible
