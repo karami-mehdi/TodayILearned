@@ -265,3 +265,13 @@
 
 ## Feb 19, 2024
 ### Wealth and Social Class
+- [ ] accumulate
+- [ ] affluence
+- [ ] elite
+- [ ] impoverish
+- [ ] luxury
+- [ ] nobility
+- [ ] prestige
+- [ ] privileged
+- [ ] prosper
+- [ ] working class
