@@ -252,13 +252,13 @@
 
 ## Feb 18, 2024
 ### Financial Systems
-- [ ] allocate
-- [ ] commodity
-- [ ] decline
-- [ ] equity
-- [ ] inflation
-- [ ] net
-- [ ] per capita
-- [ ] regulate
-- [ ] subsidy
-- [ ] tangible
+- [ ] allocate                         <!-- Meaning -->
+- [ ] commodity                        <!-- Meaning -->
+- [ ] decline                          <!-- Meaning -->
+- [ ] equity                           <!-- Meaning -->
+- [ ] inflation                        <!-- Meaning -->
+- [ ] net                              <!-- Meaning -->
+- [ ] per capita                       <!-- Meaning -->
+- [ ] regulate                         <!-- Meaning -->
+- [ ] subsidy                          <!-- Meaning -->
+- [ ] tangible                         <!-- Meaning -->
