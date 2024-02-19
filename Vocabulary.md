@@ -161,16 +161,16 @@
 
 ## Feb 11, 2024
 ### Ghosts
-- [ ] astrological                     <!-- Meaning -->
-- [ ] divination                       <!-- Meaning -->
-- [ ] haunt                            <!-- Meaning -->
-- [ ] horror                           <!-- Meaning -->
-- [ ] intermediary                     <!-- Meaning -->
-- [ ] invoke                           <!-- Meaning -->
-- [ ] meditate                         <!-- Meaning -->
-- [ ] phantom                          <!-- Meaning -->
-- [ ] psychic                          <!-- Meaning -->
-- [ ] self-perpetuating                <!-- Meaning -->
+- [x] astrological                     <!-- Meaning -->
+- [x] divination                       <!-- Meaning -->
+- [x] haunt                            <!-- Meaning -->
+- [x] horror                           <!-- Meaning -->
+- [x] intermediary                     <!-- Meaning -->
+- [x] invoke                           <!-- Meaning -->
+- [x] meditate                         <!-- Meaning -->
+- [x] phantom                          <!-- Meaning -->
+- [x] psychic                          <!-- Meaning -->
+- [x] self-perpetuating                <!-- Meaning -->
 
 ## Feb 12, 2024
 ### Anthropology
