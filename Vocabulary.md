@@ -264,3 +264,4 @@
 - [ ] tangible                         <!-- Meaning -->
 
 ## Feb 19, 2024
+### Wealth and Social Class
