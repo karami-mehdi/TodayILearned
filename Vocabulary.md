@@ -278,3 +278,14 @@
 
 ## Feb 20, 2024
 ### Personal Property
+- [ ] acquire
+- [ ] assess
+- [ ] asset
+- [ ] hazardous
+- [ ] jointly
+- [ ] lease
+- [ ] liability
+- [ ] proprietor
+- [ ] safeguard
+- [ ] sole
+
