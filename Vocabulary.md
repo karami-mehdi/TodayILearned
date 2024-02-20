@@ -278,14 +278,14 @@
 
 ## Feb 20, 2024
 ### Personal Property
-- [ ] acquire
-- [ ] assess
-- [ ] asset
-- [ ] hazardous
-- [ ] jointly
-- [ ] lease
-- [ ] liability
-- [ ] proprietor
-- [ ] safeguard
-- [ ] sole
+- [ ] acquire                          <!-- Meaning -->
+- [ ] assess                           <!-- Meaning -->
+- [ ] asset                            <!-- Meaning -->
+- [ ] hazardous                        <!-- Meaning -->
+- [ ] jointly                          <!-- Meaning -->
+- [ ] lease                            <!-- Meaning -->
+- [ ] liability                        <!-- Meaning -->
+- [ ] proprietor                       <!-- Meaning -->
+- [ ] safeguard                        <!-- Meaning -->
+- [ ] sole                             <!-- Meaning -->
 
