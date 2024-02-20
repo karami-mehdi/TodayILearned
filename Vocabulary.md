@@ -277,3 +277,4 @@
 - [ ] working class                    <!-- Meaning -->
 
 ## Feb 20, 2024
+### Personal Property
