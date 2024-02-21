@@ -291,3 +291,13 @@
 
 ## Feb 21, 2024
 ### Employment
+- [ ] compensate 
+- [ ] dynamic
+- [ ] enterprising
+- [ ] exploit
+- [ ] incentive 
+- [ ] industrious 
+- [ ] marginal
+- [ ] merit
+- [ ] promote
+- [ ] resign
