@@ -291,13 +291,13 @@
 
 ## Feb 21, 2024
 ### Employment
-- [ ] compensate 
-- [ ] dynamic
-- [ ] enterprising
-- [ ] exploit
-- [ ] incentive 
-- [ ] industrious 
-- [ ] marginal
-- [ ] merit
-- [ ] promote
-- [ ] resign
+- [ ] compensate                       <!-- Meaning -->
+- [ ] dynamic                          <!-- Meaning -->
+- [ ] enterprising                     <!-- Meaning -->
+- [ ] exploit                          <!-- Meaning -->
+- [ ] incentive                        <!-- Meaning -->
+- [ ] industrious                      <!-- Meaning -->
+- [ ] marginal                         <!-- Meaning -->
+- [ ] merit                            <!-- Meaning -->
+- [ ] promote                          <!-- Meaning -->
+- [ ] resign                       <!-- Meaning -->
