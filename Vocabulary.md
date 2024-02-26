@@ -300,4 +300,4 @@
 - [ ] marginal                         <!-- Meaning -->
 - [ ] merit                            <!-- Meaning -->
 - [ ] promote                          <!-- Meaning -->
-- [ ] resign                       <!-- Meaning -->
+- [ ] resign                           <!-- Meaning -->
