@@ -303,3 +303,4 @@
 - [ ] resign                           <!-- Meaning -->
 
 ## Feb 22, 2024
+### International Trade
