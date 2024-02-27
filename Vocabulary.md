@@ -304,13 +304,13 @@
 
 ## Feb 22, 2024
 ### International Trade
-- [ ] distill
-- [ ] entrepreneurial
-- [ ] extract
-- [ ] haggle
-- [ ] intrepid
-- [ ] merchant
-- [ ] proportionately
-- [ ] prototype
-- [ ] reward
-- [ ] shuttle
+- [ ] distill                          <!-- Meaning -->
+- [ ] entrepreneurial                  <!-- Meaning -->
+- [ ] extract                          <!-- Meaning -->
+- [ ] haggle                           <!-- Meaning -->
+- [ ] intrepid                         <!-- Meaning -->
+- [ ] merchant                         <!-- Meaning -->
+- [ ] proportionately                  <!-- Meaning -->
+- [ ] prototype                        <!-- Meaning -->
+- [ ] reward                           <!-- Meaning -->
+- [ ] shuttle                          <!-- Meaning -->
