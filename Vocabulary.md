@@ -148,16 +148,16 @@
 
 ## Feb 10, 2024
 ### Surgery
-- [x] anesthesia                       <!-- Meaning -->
-- [x] augment                          <!-- Meaning -->
-- [x] certifiably                      <!-- Meaning -->
-- [x] complication                     <!-- Meaning -->
-- [x] cure                             <!-- Meaning -->
-- [x] implant                          <!-- Meaning -->
-- [x]  inject                          <!-- Meaning -->
-- [x] obese                            <!-- Meaning -->
-- [x] procedure                        <!-- Meaning -->
-- [x] scar                             <!-- Meaning -->
+- [x] anesthesia                       <!-- a state in which someone does not feel pain, usually because of drugs they have been given -->
+- [x] augment                          <!-- to increase the size or value of something by adding something to it -->
+- [x] certifiably                      <!-- in a way that can or could be certified -->
+- [x] complication                     <!-- an extra medical problem that makes it more difficult to treat an existing illness -->
+- [x] cure                             <!-- to make someone with an illness healthy again -->
+- [x] implant                          <!-- to put an organ, group of cells, or device into the body in a medical operation -->
+- [x] inject                           <!-- to use a needle and syringe (= small tube) to put a liquid such as a drug into a person's body -->
+- [x] obese                            <!-- extremely fat in a way that is dangerous for health -->
+- [x] procedure                        <!-- a set of actions that is the official or accepted way of doing something -->
+- [x] scar                             <!-- a mark left on part of the body after an injury, such as a cut, has healed -->
 
 ## Feb 11, 2024
 ### Ghosts
