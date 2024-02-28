@@ -135,16 +135,16 @@
 
 ## Feb 9, 2024
 ### Illness
-- [x] aggravate                        <!-- Meaning -->
-- [x] decrepit                         <!-- Meaning -->
-- [x] disease                          <!-- Meaning -->
-- [x] fatally                          <!-- Meaning -->
-- [x] forensics                        <!-- Meaning -->
-- [x] persist                          <!-- Meaning -->
-- [x] prognosis                        <!-- Meaning -->
-- [x] terminal                         <!-- Meaning -->
-- [x] vein                             <!-- Meaning -->
-- [x] wound                            <!-- Meaning -->
+- [x] aggravate                        <!-- to make a bad situation worse -->
+- [x] decrepit                         <!-- in very bad condition because of being old, or not having been cared for, or having been used a lot -->
+- [x] disease                          <!-- (an) illness of people, animals, plants, etc., caused by infection or a failure of health rather than by an accident -->
+- [x] fatally                          <!-- in a way that causes death -->
+- [x] forensics                        <!-- scientific methods of solving crimes, that involve examining objects or substances related to a crime -->
+- [x] persist                          <!-- to try to do or continue doing something in a determined but often unreasonable way -->
+- [x] prognosis                        <!-- a doctor's judgment of the likely or expected development of a disease or of the chances of getting better -->
+- [x] terminal                         <!-- (of a disease or illness) leading gradually to death -->
+- [x] vein                             <!-- a tube that carries blood to the heart from the other parts of the body -->
+- [x] wound                            <!-- a damaged area of the body, such as a cut or hole in the skin or flesh made by a weapon -->
 
 ## Feb 10, 2024
 ### Surgery
