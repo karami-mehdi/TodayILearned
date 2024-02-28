@@ -122,16 +122,16 @@
 
 ## Feb 8, 2024
 ### Spirituality
-- [x] agnostic                         <!-- Meaning -->
-- [x] animism                          <!-- Meaning -->
-- [x] atheist                          <!-- Meaning -->
-- [x] be inclined to                   <!-- Meaning -->
-- [x] contemplate                      <!-- Meaning -->
-- [x] deify                            <!-- Meaning -->
-- [x] ecclesiastical                   <!-- Meaning -->
-- [x] exalt                            <!-- Meaning -->
-- [x] pious                            <!-- Meaning -->
-- [x] sacrifice                        <!-- Meaning -->
+- [x] agnostic                         <!-- someone who does not know, or believes that it is impossible to know, if a god exists -->
+- [x] animism                          <!-- the belief that all natural things, such as plants, animals, rocks, and thunder, have spirits and can influence human events -->
+- [x] atheist                          <!-- someone who does not believe in any god or gods, or who believes that no god or gods exist -->
+- [x] be inclined to                   <!-- to have an opinion about something, but not a strong opinion -->
+- [x] contemplate                      <!-- to spend time considering a possible future action, or to consider one particular thing for a long time in a serious and quiet way -->
+- [x] deify                            <!-- to make someone or something into a god -->
+- [x] ecclesiastical                   <!-- belonging to or connected with the Christian religion -->
+- [x] exalt                            <!-- to praise someone a lot, or to raise someone to a higher rank or more powerful position -->
+- [x] pious                            <!-- strongly believing in religion, and living in a way that shows this belief -->
+- [x] sacrifice                        <!-- o give up something that is valuable to you in order to help another person -->
 
 ## Feb 9, 2024
 ### Illness
