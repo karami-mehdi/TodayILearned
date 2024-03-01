@@ -330,3 +330,13 @@
 
 ## Feb 24, 2024
 ### A Reasonable Doubt
+- [ ] accuse 
+- [ ] allegedly 
+- [ ] civil
+- [ ] convict
+- [ ] guilty
+- [ ] offense 
+- [ ] peer
+- [ ] suspect 
+- [ ] verdict
+- [ ] witness
