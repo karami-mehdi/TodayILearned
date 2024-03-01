@@ -317,16 +317,16 @@
 
 ## Feb 23, 2024
 ### Politics
-- [ ] advocate 
-- [ ] authority 
-- [ ] bitterly 
-- [ ] candidate 
-- [ ] coalition 
-- [ ] contest
-- [ ] election
-- [ ] inaugurate 
-- [ ] policy
-- [ ] poll
+- [ ] advocate                         <!-- Meaning -->
+- [ ] authority                        <!-- Meaning -->
+- [ ] bitterly                         <!-- Meaning -->
+- [ ] candidate                        <!-- Meaning -->
+- [ ] coalition                        <!-- Meaning -->
+- [ ] contest                          <!-- Meaning -->
+- [ ] election                         <!-- Meaning -->
+- [ ] inaugurate                       <!-- Meaning -->
+- [ ] policy                           <!-- Meaning -->
+- [ ] poll                             <!-- Meaning -->
 
 ## Feb 24, 2024
 ### A Reasonable Doubt
