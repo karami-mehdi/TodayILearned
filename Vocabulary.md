@@ -317,5 +317,15 @@
 
 ## Feb 23, 2024
 ### Politics
+- [ ] advocate 
+- [ ] authority 
+- [ ] bitterly 
+- [ ] candidate 
+- [ ] coalition 
+- [ ] contest
+- [ ] election
+- [ ] inaugurate 
+- [ ] policy
+- [ ] poll
 
 ## Feb 24, 2024
