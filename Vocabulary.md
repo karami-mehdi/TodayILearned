@@ -343,13 +343,13 @@
 
 ## Feb 25, 2024
 ### The Police
-- [ ] apprehend
-- [ ] ascertain
-- [ ] bureaucratic
-- [ ] condemn
-- [ ] evidence
-- [ ] implicate
-- [ ] inquiry
-- [ ] intrusively
-- [ ] seize
-- [ ] surveillance
+- [ ] apprehend                        <!-- Meaning -->
+- [ ] ascertain                        <!-- Meaning -->
+- [ ] bureaucratic                     <!-- Meaning -->
+- [ ] condemn                          <!-- Meaning -->
+- [ ] evidence                         <!-- Meaning -->
+- [ ] implicate                        <!-- Meaning -->
+- [ ] inquiry                          <!-- Meaning -->
+- [ ] intrusively                      <!-- Meaning -->
+- [ ] seize                            <!-- Meaning -->
+- [ ] surveillance                     <!-- Meaning -->
