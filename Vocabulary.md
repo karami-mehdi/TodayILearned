@@ -161,16 +161,16 @@
 
 ## Feb 11, 2024
 ### Ghosts
-- [x] astrological                     <!-- Meaning -->
-- [x] divination                       <!-- Meaning -->
-- [x] haunt                            <!-- Meaning -->
-- [x] horror                           <!-- Meaning -->
-- [x] intermediary                     <!-- Meaning -->
-- [x] invoke                           <!-- Meaning -->
-- [x] meditate                         <!-- Meaning -->
-- [x] phantom                          <!-- Meaning -->
-- [x] psychic                          <!-- Meaning -->
-- [x] self-perpetuating                <!-- Meaning -->
+- [x] astrological                     <!-- involving or relating to astrology -->
+- [x] divination                       <!-- the skill or act of saying or discovering what will happen in the future -->
+- [x] haunt                            <!-- to often appear somewhere, or to appear to someone in the form of a ghost -->
+- [x] horror                           <!-- an extremely strong feeling of fear and shock, or the frightening and shocking character of something -->
+- [x] intermediary                     <!-- someone who carries messages between people who are unwilling or unable to meet -->
+- [x] invoke                           <!-- to call on something or someone, esp. God, for help -->
+- [x] meditate                         <!-- to think calm thoughts in order to relax or as a religious activity -->
+- [x] phantom                          <!-- a spirit of a dead person believed by some to visit the living as a pale, almost transparent form of a person, animal, or other object -->
+- [x] psychic                          <!-- a person who has a special mental ability, for example being able to know what will happen in the future or what people are thinking -->
+- [x] self-perpetuating                <!-- having a system that prevents change and produces new things that are very similar to the old ones -->
 
 ## Feb 12, 2024
 ### Anthropology
