@@ -109,16 +109,16 @@
 
 ## Feb 7, 2024
 ### Memory
-- [x] acquisition                      <!-- Meaning -->
-- [x] anomaly                          <!-- Meaning -->
-- [x] consciously                      <!-- Meaning -->
-- [x] degrade                          <!-- Meaning -->
-- [x] gap                              <!-- Meaning -->
-- [x] indisputable                     <!-- Meaning -->
-- [x] intervene                        <!-- Meaning -->
-- [x] intuitively                      <!-- Meaning -->
-- [x] recede                           <!-- Meaning -->
-- [x] retrieve                         <!-- Meaning -->
+- [x] acquisition                      <!-- the process of getting something -->
+- [x] anomaly                          <!-- a person or thing that is different from what is usual, or not in agreement with something else and therefore not satisfactory -->
+- [x] consciously                      <!-- in a way that involves noticing that a particular thing exists or is present -->
+- [x] degrade                          <!-- to cause people to feel that they or other people have no value and do not have the respect or good opinion of others -->
+- [x] gap                              <!-- an empty space or opening in the middle of something or between two things -->
+- [x] indisputable                     <!-- true, and impossible to doubt -->
+- [x] intervene                        <!-- to intentionally become involved in a difficult situation in order to improve it or prevent it from getting worse -->
+- [x] intuitively                      <!-- in a way that is based on feelings rather than facts or proof -->
+- [x] recede                           <!-- to move further away into the distance, or to become less clear or less bright -->
+- [x] retrieve                         <!-- to find and bring back something -->
 
 ## Feb 8, 2024
 ### Spirituality
