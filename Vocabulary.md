@@ -174,16 +174,16 @@
 
 ## Feb 12, 2024
 ### Anthropology
-- [x] assimilate                       <!-- Meaning -->
-- [x] cremation                        <!-- Meaning -->
-- [x] domesticate                      <!-- Meaning -->
-- [x] folklore                         <!-- Meaning -->
-- [x] fossilize                        <!-- Meaning -->
-- [x] relic                            <!-- Meaning -->
-- [x] rite                             <!-- Meaning -->
-- [x] ritually                         <!-- Meaning -->
-- [x] saga                             <!-- Meaning -->
-- [x] vestige                          <!-- Meaning -->
+- [x] assimilate                       <!-- People who are or become assimilated in a society become similar to others by learning and using the customs and culture of the new society -->
+- [x] cremation                        <!-- the act of burning a dead body, or a part of a funeral ceremony in which this is done -->
+- [x] domesticate                      <!-- to bring animals or plants under human control in order to provide food, power, or company -->
+- [x] folklore                         <!-- the traditional stories and culture of a group of people -->
+- [x] fossilize                        <!-- to become or to make something become a fossil -->
+- [x] relic                            <!-- an object, tradition, or system from the past that continues to exist -->
+- [x] rite                             <!-- a set of fixed words and actions, often said and done as part of a religious ceremony -->
+- [x] ritually                         <!-- in a way that is done as part of a ritual (= a fixed set of actions and words, especially as part of a religious ceremony) -->
+- [x] saga                             <!-- a long, detailed story of connected events -->
+- [x] vestige                          <!-- a small part or amount of something larger, stronger, or more important that still exists from something that existed in the past -->
 
 ## Feb 13, 2024
 ### Social Inequality
