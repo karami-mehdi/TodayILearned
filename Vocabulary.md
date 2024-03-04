@@ -174,16 +174,16 @@
 
 ## Feb 12, 2024
 ### Anthropology
-- [ ] assimilate                       <!-- Meaning -->
-- [ ] cremation                        <!-- Meaning -->
-- [ ] domesticate                      <!-- Meaning -->
-- [ ] folklore                         <!-- Meaning -->
-- [ ] fossilize                        <!-- Meaning -->
-- [ ] relic                            <!-- Meaning -->
-- [ ] rite                             <!-- Meaning -->
-- [ ] ritually                         <!-- Meaning -->
-- [ ] saga                             <!-- Meaning -->
-- [ ] vestige                          <!-- Meaning -->
+- [x] assimilate                       <!-- Meaning -->
+- [x] cremation                        <!-- Meaning -->
+- [x] domesticate                      <!-- Meaning -->
+- [x] folklore                         <!-- Meaning -->
+- [x] fossilize                        <!-- Meaning -->
+- [x] relic                            <!-- Meaning -->
+- [x] rite                             <!-- Meaning -->
+- [x] ritually                         <!-- Meaning -->
+- [x] saga                             <!-- Meaning -->
+- [x] vestige                          <!-- Meaning -->
 
 ## Feb 13, 2024
 ### Social Inequality
