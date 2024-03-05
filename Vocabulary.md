@@ -354,7 +354,7 @@
 - [ ] seize                            <!-- Meaning -->
 - [ ] surveillance                     <!-- Meaning -->
 
-## Feb 25, 2024
+## Feb 26, 2024
 ### Investigating Crimes
 - [ ] analyze                          <!-- Meaning -->
 - [ ] assail                           <!-- Meaning -->
