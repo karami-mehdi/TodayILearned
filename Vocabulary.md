@@ -356,13 +356,13 @@
 
 ## Feb 25, 2024
 ### Investigating Crimes
-- [ ] analyze
-- [ ] assail
-- [ ] contrary
-- [ ] hypothesize
-- [ ] impair
-- [ ] inference
-- [ ] objectively
-- [ ] suspicious
-- [ ] tolerate
-- [ ] versus
+- [ ] analyze                          <!-- Meaning -->
+- [ ] assail                           <!-- Meaning -->
+- [ ] contrary                         <!-- Meaning -->
+- [ ] hypothesize                      <!-- Meaning -->
+- [ ] impair                           <!-- Meaning -->
+- [ ] inference                        <!-- Meaning -->
+- [ ] objectively                      <!-- Meaning -->
+- [ ] suspicious                       <!-- Meaning -->
+- [ ] tolerate                         <!-- Meaning -->
+- [ ] versus                           <!-- Meaning -->
