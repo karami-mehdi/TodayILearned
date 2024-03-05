@@ -187,16 +187,16 @@
 
 ## Feb 13, 2024
 ### Social Inequality
-- [ ] amend                            <!-- Meaning -->
-- [ ] biased                           <!-- Meaning -->
-- [ ] burden                           <!-- Meaning -->
-- [ ] counter                          <!-- Meaning -->
-- [ ] de facto                         <!-- Meaning -->
-- [ ] discriminate                     <!-- Meaning -->
-- [ ] notion                           <!-- Meaning -->
-- [ ] oppress                          <!-- Meaning -->
-- [ ] paradigm                         <!-- Meaning -->
-- [ ] prejudiced                       <!-- Meaning -->
+- [ ] amend                            <!-- to correct or make small changes to something that is written or spoken -->
+- [ ] biased                           <!-- showing an unreasonable like or dislike for someone or something based on personal opinions -->
+- [ ] burden                           <!-- a heavy load that you carry -->
+- [ ] counter                          <!-- to react to something with an opposing opinion or action, or to defend yourself against something -->
+- [ ] de facto                         <!-- existing in fact, although not necessarily intended or legal -->
+- [ ] discriminate                     <!-- to treat a person or particular group of people differently, especially in a worse way from the way in which you treat other people, because of their race, gender, sexuality, etc. -->
+- [ ] notion                           <!-- a belief or idea -->
+- [ ] oppress                          <!-- to govern people in an unfair and cruel way and prevent them from having opportunities and freedom -->
+- [ ] paradigm                         <!-- a model of something, or a very clear and typical example of something -->
+- [ ] prejudiced                       <!-- showing an unreasonable dislike for something or someone -->
 
 ## Feb 14, 2024
 ### Expertise
