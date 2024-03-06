@@ -213,16 +213,16 @@
 
 ## Feb 15, 2024
 ### Military Operations
-- [ ] allegiance                       <!-- Meaning -->
-- [ ] artillery                        <!-- Meaning -->
-- [ ] battle                           <!-- Meaning -->
-- [ ] cease                            <!-- Meaning -->
-- [ ] hierarchy                        <!-- Meaning -->
-- [ ] in the trenches                  <!-- Meaning -->
-- [ ] mobilize                         <!-- Meaning -->
-- [ ] rank                             <!-- Meaning -->
-- [ ] ratio                            <!-- Meaning -->
-- [ ] strategic                        <!-- Meaning -->
+- [x] allegiance                       <!-- Meaning -->
+- [x] artillery                        <!-- Meaning -->
+- [x] battle                           <!-- Meaning -->
+- [x] cease                            <!-- Meaning -->
+- [x] hierarchy                        <!-- Meaning -->
+- [x] in the trenches                  <!-- Meaning -->
+- [x] mobilize                         <!-- Meaning -->
+- [x] rank                             <!-- Meaning -->
+- [x] ratio                            <!-- Meaning -->
+- [x] strategic                        <!-- Meaning -->
 
 ## Feb 16, 2024
 ### War and Conquest
