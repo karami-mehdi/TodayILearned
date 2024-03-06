@@ -200,16 +200,16 @@
 
 ## Feb 14, 2024
 ### Expertise
-- [ ] curriculum                       <!-- the subjects studied in a school, college, etc. and what each subject includes -->
-- [ ] distinctly                       <!-- in a way that is clearly separate and different from something else -->
-- [ ] erudite                          <!-- having or containing a lot of knowledge that is known by very few people -->
-- [ ] fortify                          <!-- to make something stronger, especially in order to protect it -->
-- [ ] implicitly                       <!-- in a way that is suggested but not communicated directly -->
-- [ ] parochial                        <!-- relating to a parish (= an area that has its own church or priest) -->
-- [ ] rigor                            <!-- the fact that people are made to follow rules in a very severe way -->
-- [ ] roster                           <!-- a list of people's names, often with the jobs they have been given to do -->
-- [ ] secular                          <!-- not having any connection with religion -->
-- [ ] suspend                          <!-- to stop something from being active, either temporarily or permanently -->
+- [x] curriculum                       <!-- the subjects studied in a school, college, etc. and what each subject includes -->
+- [x] distinctly                       <!-- in a way that is clearly separate and different from something else -->
+- [x] erudite                          <!-- having or containing a lot of knowledge that is known by very few people -->
+- [x] fortify                          <!-- to make something stronger, especially in order to protect it -->
+- [x] implicitly                       <!-- in a way that is suggested but not communicated directly -->
+- [x] parochial                        <!-- relating to a parish (= an area that has its own church or priest) -->
+- [x] rigor                            <!-- the fact that people are made to follow rules in a very severe way -->
+- [x] roster                           <!-- a list of people's names, often with the jobs they have been given to do -->
+- [x] secular                          <!-- not having any connection with religion -->
+- [x] suspend                          <!-- to stop something from being active, either temporarily or permanently -->
 
 ## Feb 15, 2024
 ### Military Operations
