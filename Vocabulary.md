@@ -1,4 +1,4 @@
-# Today I Learned Vocabularies
+\# Today I Learned Vocabularies
 
 > [!NOTE]
 > Tracking the words I learn every day to expand and enhance my English vocabulary.
@@ -368,3 +368,4 @@
 - [ ] versus                           <!-- Meaning -->
 
 ## Feb 27, 2024
+### Government Corruption
