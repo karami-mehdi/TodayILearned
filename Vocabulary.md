@@ -369,3 +369,13 @@
 
 ## Feb 27, 2024
 ### Government Corruption
+- [ ] bribery
+- [ ] cynically
+- [ ] erode
+- [ ] evade
+- [ ] grotesque
+- [ ] integrity
+- [ ] prevalent
+- [ ] reform
+- [ ] scandal
+- [ ] unmask
