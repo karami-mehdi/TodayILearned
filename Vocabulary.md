@@ -380,5 +380,15 @@
 - [ ] scandal                          <!-- Meaning -->
 - [ ] unmask                           <!-- Meaning -->
 
-##cFeb 28, 2024
+## Feb 28, 2024
 ### Crimes at Sea
+- [ ] abduction
+- [ ] coerce
+- [ ] detain
+- [ ] deviant
+- [ ] distort
+- [ ] intentionally
+- [ ] piracy
+- [ ] predicament
+- [ ] smuggle
+- [ ] villainy
