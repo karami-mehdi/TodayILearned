@@ -381,14 +381,14 @@
 - [ ] unmask                           <!-- Meaning -->
 
 ## Feb 28, 2024
-### Crimes at Sea
-- [ ] abduction
-- [ ] coerce
-- [ ] detain
-- [ ] deviant
-- [ ] distort
-- [ ] intentionally
-- [ ] piracy
-- [ ] predicament
-- [ ] smuggle
-- [ ] villainy
+### Crimes at Sea 
+- [ ] abduction                        <!-- Meaning -->
+- [ ] coerce                           <!-- Meaning -->
+- [ ] detain                           <!-- Meaning -->
+- [ ] deviant                          <!-- Meaning -->
+- [ ] distort                          <!-- Meaning -->
+- [ ] intentionally                    <!-- Meaning -->
+- [ ] piracy                           <!-- Meaning -->
+- [ ] predicament                      <!-- Meaning -->
+- [ ] smuggle                          <!-- Meaning -->
+- [ ] villainy                         <!-- Meaning -->
