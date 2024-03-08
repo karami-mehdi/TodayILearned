@@ -226,16 +226,16 @@
 
 ## Feb 16, 2024
 ### War and Conquest
-- [x] annex                            <!-- Meaning -->
-- [x] apex                             <!-- Meaning -->
-- [x] collapse                         <!-- Meaning -->
-- [x] conquest                         <!-- Meaning -->
-- [x] devise                           <!-- Meaning -->
-- [x] invasive                         <!-- Meaning -->
-- [x] prevailing                       <!-- Meaning -->
-- [x] resist                           <!-- Meaning -->
-- [x] severely                         <!-- Meaning -->
-- [x] violation                        <!-- Meaning -->
+- [x] annex                            <!-- to take possession of an area of land or a country, usually by force or without permission -->
+- [x] apex                             <!-- the highest point or top of a shape or object -->
+- [x] collapse                         <!-- to fall down suddenly because of pressure or having no strength or support -->
+- [x] conquest                         <!-- the act of conquering a country, area, or situation -->
+- [x] devise                           <!-- to invent a plan, system, object, etc., usually using your intelligence or imagination -->
+- [x] invasive                         <!-- moving into all areas of something and difficult to stop -->
+- [x] prevailing                       <!-- existing in a particular place or at a particular time -->
+- [x] resist                           <!-- to fight against something or someone that is attacking you -->
+- [x] severely                         <!-- very seriously -->
+- [x] violation                        <!-- an action that breaks or acts against something, especially a law, agreement, principle, or something that should be treated with respect -->
 
 ## Feb 17, 2024
 ### History
