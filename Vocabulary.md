@@ -395,3 +395,14 @@
 
 ## Feb 29, 2024
 ### The War on Drugs
+- [ ] addictive
+- [ ] cartel
+- [ ] concentrated
+- [ ] interdict
+- [ ] juxtapose
+- [ ] misconception
+- [ ] modify
+- [ ] potent
+- [ ] residual
+- [ ] subtly
+
