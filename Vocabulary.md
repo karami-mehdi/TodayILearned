@@ -1,4 +1,4 @@
-\# Today I Learned Vocabularies
+# Today I Learned Vocabularies
 
 > [!NOTE]
 > Tracking the words I learn every day to expand and enhance my English vocabulary.
@@ -395,14 +395,13 @@
 
 ## Feb 29, 2024
 ### The War on Drugs
-- [ ] addictive
-- [ ] cartel
-- [ ] concentrated
-- [ ] interdict
-- [ ] juxtapose
-- [ ] misconception
-- [ ] modify
-- [ ] potent
-- [ ] residual
-- [ ] subtly
-
+- [ ] addictive                        <!-- Meaning -->
+- [ ] cartel                           <!-- Meaning -->
+- [ ] concentrated                     <!-- Meaning -->
+- [ ] interdict                        <!-- Meaning -->
+- [ ] juxtapose                        <!-- Meaning -->
+- [ ] misconception                    <!-- Meaning -->
+- [ ] modify                           <!-- Meaning -->
+- [ ] potent                           <!-- Meaning -->
+- [ ] residual                         <!-- Meaning -->
+- [ ] subtly                           <!-- Meaning -->
