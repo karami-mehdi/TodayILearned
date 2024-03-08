@@ -213,16 +213,16 @@
 
 ## Feb 15, 2024
 ### Military Operations
-- [x] allegiance                       <!-- Meaning -->
-- [x] artillery                        <!-- Meaning -->
-- [x] battle                           <!-- Meaning -->
-- [x] cease                            <!-- Meaning -->
-- [x] hierarchy                        <!-- Meaning -->
-- [x] in the trenches                  <!-- Meaning -->
-- [x] mobilize                         <!-- Meaning -->
-- [x] rank                             <!-- Meaning -->
-- [x] ratio                            <!-- Meaning -->
-- [x] strategic                        <!-- Meaning -->
+- [x] allegiance                       <!-- loyalty and support for a ruler, country, group, or belief -->
+- [x] artillery                        <!-- very large guns that are moved on wheels or metal tracks, or the part of the army that uses these -->
+- [x] battle                           <!-- a fight between armed forces -->
+- [x] cease                            <!-- to stop something -->
+- [x] hierarchy                        <!-- a system in which people or things are arranged according to their importance -->
+- [x] in the trenches                  <!-- working in the most active and difficult parts of a job or business -->
+- [x] mobilize                         <!-- to organize people to support something or to make a part of an organization ready for a special purpose -->
+- [x] rank                             <!-- a position in an organization, such as the army, showing the importance of the person having it -->
+- [x] ratio                            <!-- the relationship between two groups or amounts that expresses how much bigger one is than the other -->
+- [x] strategic                        <!-- helping to achieve a plan, for example in business or politics -->
 
 ## Feb 16, 2024
 ### War and Conquest
