@@ -408,13 +408,13 @@
 
 ## Mar 1, 2024
 ### Family Relationships
-- [ ] ancestral
-- [ ] cohesion
-- [ ] descendant
-- [ ] inheritance
-- [ ] kin
-- [ ] legitimate
-- [ ] paternal
-- [ ] proximity
-- [ ] sentiment
-- [ ] sibling
+- [ ] ancestral                        <!-- Meaning -->
+- [ ] cohesion                         <!-- Meaning -->
+- [ ] descendant                       <!-- Meaning -->
+- [ ] inheritance                      <!-- Meaning -->
+- [ ] kin                              <!-- Meaning -->
+- [ ] legitimate                       <!-- Meaning -->
+- [ ] paternal                         <!-- Meaning -->
+- [ ] proximity                        <!-- Meaning -->
+- [ ] sentiment                        <!-- Meaning -->
+- [ ] sibling                          <!-- Meaning -->
