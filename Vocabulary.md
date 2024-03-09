@@ -3,8 +3,10 @@
 > [!NOTE]
 > Tracking the words I learn every day to expand and enhance my English vocabulary.
 
-## Jan 30, 2024
-### Food Crops
+> [!WARNING]  
+> This file primarily served to advance the ongoing process of learning English. At this juncture, I believe it is the best time to conclude this file, as significant strides have been made in my learning journey, and we can proceed in other possible ways.
+
+## Food Crops
 - [x] abandon                          <!-- to leave a place, thing, or person, usually for ever - to stop doing an activity before you have finished it -->
 - [x] adversely                        <!-- in a way that has a negative or harmful effect -->
 - [x] aggregate                        <!-- something formed by adding together several amounts or things -->
@@ -16,8 +18,7 @@
 - [x] photosynthesis                   <!-- the process by which a plant uses the energy from the light of the sun to make its own food -->
 - [x] precipitation                    <!-- water that falls from the clouds towards the ground, especially as rain or snow -->
 
-## Jan 31, 2024
-### Disaster
+## Disaster
 - [x] anticipate                       <!-- to imagine or expect that something will happen -->
 - [x] catastrophic                     <!-- causing sudden and very great harm or destruction -->
 - [x] collide                          <!-- (especially of moving objects) to hit something violently -->
@@ -29,8 +30,7 @@
 - [x] plunge                           <!-- to move or fall suddenly and often a long way forward, down, or into something -->
 - [x] unleash                          <!-- to suddenly release a violent force that cannot be controlled -->
 
-## Feb 1, 2024
-### Evolution and Migration
+## Evolution and Migration
 - [x] adapt                            <!-- to change, or to change something, to suit different conditions or uses -->
 - [x] diverse                          <!-- including many different types of people or things -->
 - [x] evolve                           <!-- to develop gradually, or to cause something or someone to develop gradually -->
@@ -42,8 +42,7 @@
 - [x] process                          <!-- a series of actions that you take in order to achieve a result -->
 - [x] survive                          <!-- to continue to live or exist, especially after being in a difficult or threatening situation -->
 
-## Feb 2, 2024
-### Petroleum Alternatives
+## Petroleum Alternatives
 - [x] constraint                       <!-- something that controls what you do by keeping you within particular limits -->
 - [x] contamination                    <!-- the process of making something dirty or poisonous, or the state of containing unwanted or dangerous substances -->
 - [x] deplete                          <!-- to reduce something in size or amount, especially supplies of energy, money, etc. -->
@@ -55,8 +54,7 @@
 - [x] shrink                           <!-- to become smaller, or to make something smaller -->
 - [x] stable                           <!-- firmly fixed or not likely to move or change -->
 
-## Feb 3, 2024
-### Time Efficiency
+## Time Efficiency
 - [x] adjust                           <!-- to change something slightly, especially to make it more correct, effective, or suitable -->
 - [x] arbitrary                        <!-- based on chance rather than being planned or based on reason -->
 - [x] denominator                      <!-- the number below the line in a fraction -->
@@ -68,8 +66,7 @@
 - [x] rate                             <!-- the speed at which something happens or changes, or the amount or number of times it happens or changes in a particular period -->
 - [x] sequence                         <!-- a series of related things or events, or the order in which they follow each other -->
 
-## Feb 4, 2024
-### Ancient Life
+## Ancient Life
 - [x] accuracy                         <!-- the fact of being exact or correct -->
 - [x] adjacent                         <!-- very near, next to, or touching -->
 - [x] compress                         <!-- to press something into a smaller space -->
@@ -81,8 +78,7 @@
 - [x] seep                             <!-- to move or spread slowly out of a hole or through something -->
 - [x] structure                        <!-- the way in which the parts of a system or object are arranged or organized, or a system arranged in this way -->
 
-## Feb 5, 2024
-### Computers
+## Computers
 - [x] circulate                        <!-- to go around or through something, or to make something go around or through something -->
 - [x] corrode                          <!-- if metal corrodes, or if something corrodes it, it is slowly damaged by something such as rain or water -->
 - [x] derive                           <!-- to get or obtain something -->
@@ -94,8 +90,7 @@
 - [x] maintenance                      <!-- the work needed to keep a road, building, machine, etc. in good condition -->
 - [x] simulation                       <!-- a model of a set of problems or events that can be used to teach someone how to do something -->
 
-## Feb 6, 2024
-### Energy
+## Energy
 - [x] combustion                       <!-- the process of burning -->
 - [x] component                        <!-- a part that combines with other parts to form something bigger -->
 - [x] convey                           <!-- to take or carry someone or something to a particular place -->
@@ -107,8 +102,7 @@
 - [x] source                           <!-- something or someone that causes or produces something, or is the origin of it -->
 - [x] trigger                          <!-- to cause something to start -->
 
-## Feb 7, 2024
-### Memory
+## Memory
 - [x] acquisition                      <!-- the process of getting something -->
 - [x] anomaly                          <!-- a person or thing that is different from what is usual, or not in agreement with something else and therefore not satisfactory -->
 - [x] consciously                      <!-- in a way that involves noticing that a particular thing exists or is present -->
@@ -120,8 +114,7 @@
 - [x] recede                           <!-- to move further away into the distance, or to become less clear or less bright -->
 - [x] retrieve                         <!-- to find and bring back something -->
 
-## Feb 8, 2024
-### Spirituality
+## Spirituality
 - [x] agnostic                         <!-- someone who does not know, or believes that it is impossible to know, if a god exists -->
 - [x] animism                          <!-- the belief that all natural things, such as plants, animals, rocks, and thunder, have spirits and can influence human events -->
 - [x] atheist                          <!-- someone who does not believe in any god or gods, or who believes that no god or gods exist -->
@@ -133,8 +126,7 @@
 - [x] pious                            <!-- strongly believing in religion, and living in a way that shows this belief -->
 - [x] sacrifice                        <!-- o give up something that is valuable to you in order to help another person -->
 
-## Feb 9, 2024
-### Illness
+## Illness
 - [x] aggravate                        <!-- to make a bad situation worse -->
 - [x] decrepit                         <!-- in very bad condition because of being old, or not having been cared for, or having been used a lot -->
 - [x] disease                          <!-- (an) illness of people, animals, plants, etc., caused by infection or a failure of health rather than by an accident -->
@@ -146,8 +138,7 @@
 - [x] vein                             <!-- a tube that carries blood to the heart from the other parts of the body -->
 - [x] wound                            <!-- a damaged area of the body, such as a cut or hole in the skin or flesh made by a weapon -->
 
-## Feb 10, 2024
-### Surgery
+## Surgery
 - [x] anesthesia                       <!-- a state in which someone does not feel pain, usually because of drugs they have been given -->
 - [x] augment                          <!-- to increase the size or value of something by adding something to it -->
 - [x] certifiably                      <!-- in a way that can or could be certified -->
@@ -159,8 +150,7 @@
 - [x] procedure                        <!-- a set of actions that is the official or accepted way of doing something -->
 - [x] scar                             <!-- a mark left on part of the body after an injury, such as a cut, has healed -->
 
-## Feb 11, 2024
-### Ghosts
+## Ghosts
 - [x] astrological                     <!-- involving or relating to astrology -->
 - [x] divination                       <!-- the skill or act of saying or discovering what will happen in the future -->
 - [x] haunt                            <!-- to often appear somewhere, or to appear to someone in the form of a ghost -->
@@ -172,8 +162,7 @@
 - [x] psychic                          <!-- a person who has a special mental ability, for example being able to know what will happen in the future or what people are thinking -->
 - [x] self-perpetuating                <!-- having a system that prevents change and produces new things that are very similar to the old ones -->
 
-## Feb 12, 2024
-### Anthropology
+## Anthropology
 - [x] assimilate                       <!-- People who are or become assimilated in a society become similar to others by learning and using the customs and culture of the new society -->
 - [x] cremation                        <!-- the act of burning a dead body, or a part of a funeral ceremony in which this is done -->
 - [x] domesticate                      <!-- to bring animals or plants under human control in order to provide food, power, or company -->
@@ -185,8 +174,7 @@
 - [x] saga                             <!-- a long, detailed story of connected events -->
 - [x] vestige                          <!-- a small part or amount of something larger, stronger, or more important that still exists from something that existed in the past -->
 
-## Feb 13, 2024
-### Social Inequality
+## Social Inequality
 - [x] amend                            <!-- to correct or make small changes to something that is written or spoken -->
 - [x] biased                           <!-- showing an unreasonable like or dislike for someone or something based on personal opinions -->
 - [x] burden                           <!-- a heavy load that you carry -->
@@ -198,8 +186,7 @@
 - [x] paradigm                         <!-- a model of something, or a very clear and typical example of something -->
 - [x] prejudiced                       <!-- showing an unreasonable dislike for something or someone -->
 
-## Feb 14, 2024
-### Expertise
+## Expertise
 - [x] curriculum                       <!-- the subjects studied in a school, college, etc. and what each subject includes -->
 - [x] distinctly                       <!-- in a way that is clearly separate and different from something else -->
 - [x] erudite                          <!-- having or containing a lot of knowledge that is known by very few people -->
@@ -211,8 +198,7 @@
 - [x] secular                          <!-- not having any connection with religion -->
 - [x] suspend                          <!-- to stop something from being active, either temporarily or permanently -->
 
-## Feb 15, 2024
-### Military Operations
+## Military Operations
 - [x] allegiance                       <!-- loyalty and support for a ruler, country, group, or belief -->
 - [x] artillery                        <!-- very large guns that are moved on wheels or metal tracks, or the part of the army that uses these -->
 - [x] battle                           <!-- a fight between armed forces -->
@@ -224,8 +210,7 @@
 - [x] ratio                            <!-- the relationship between two groups or amounts that expresses how much bigger one is than the other -->
 - [x] strategic                        <!-- helping to achieve a plan, for example in business or politics -->
 
-## Feb 16, 2024
-### War and Conquest
+## War and Conquest
 - [x] annex                            <!-- to take possession of an area of land or a country, usually by force or without permission -->
 - [x] apex                             <!-- the highest point or top of a shape or object -->
 - [x] collapse                         <!-- to fall down suddenly because of pressure or having no strength or support -->
@@ -236,198 +221,3 @@
 - [x] resist                           <!-- to fight against something or someone that is attacking you -->
 - [x] severely                         <!-- very seriously -->
 - [x] violation                        <!-- an action that breaks or acts against something, especially a law, agreement, principle, or something that should be treated with respect -->
-
-## Feb 17, 2024
-### History
-- [ ] chronologically                  <!-- Meaning -->
-- [ ] coincide                         <!-- Meaning -->
-- [ ] consequence                      <!-- Meaning -->
-- [ ] core                             <!-- Meaning -->
-- [ ] deny                             <!-- Meaning -->
-- [ ] diminish                         <!-- Meaning -->
-- [ ] longitude                        <!-- Meaning -->
-- [ ] milieu                           <!-- Meaning -->
-- [ ] Orwellian                        <!-- Meaning -->
-- [ ] reconciliation                   <!-- Meaning -->
-
-## Feb 18, 2024
-### Financial Systems
-- [ ] allocate                         <!-- Meaning -->
-- [ ] commodity                        <!-- Meaning -->
-- [ ] decline                          <!-- Meaning -->
-- [ ] equity                           <!-- Meaning -->
-- [ ] inflation                        <!-- Meaning -->
-- [ ] net                              <!-- Meaning -->
-- [ ] per capita                       <!-- Meaning -->
-- [ ] regulate                         <!-- Meaning -->
-- [ ] subsidy                          <!-- Meaning -->
-- [ ] tangible                         <!-- Meaning -->
-
-## Feb 19, 2024
-### Wealth and Social Class
-- [ ] accumulate                       <!-- Meaning -->
-- [ ] affluence                        <!-- Meaning -->
-- [ ] elite                            <!-- Meaning -->
-- [ ] impoverish                       <!-- Meaning -->
-- [ ] luxury                           <!-- Meaning -->
-- [ ] nobility                         <!-- Meaning -->
-- [ ] prestige                         <!-- Meaning -->
-- [ ] privileged                       <!-- Meaning -->
-- [ ] prosper                          <!-- Meaning -->
-- [ ] working class                    <!-- Meaning -->
-
-## Feb 20, 2024
-### Personal Property
-- [ ] acquire                          <!-- Meaning -->
-- [ ] assess                           <!-- Meaning -->
-- [ ] asset                            <!-- Meaning -->
-- [ ] hazardous                        <!-- Meaning -->
-- [ ] jointly                          <!-- Meaning -->
-- [ ] lease                            <!-- Meaning -->
-- [ ] liability                        <!-- Meaning -->
-- [ ] proprietor                       <!-- Meaning -->
-- [ ] safeguard                        <!-- Meaning -->
-- [ ] sole                             <!-- Meaning -->
-
-## Feb 21, 2024
-### Employment
-- [ ] compensate                       <!-- Meaning -->
-- [ ] dynamic                          <!-- Meaning -->
-- [ ] enterprising                     <!-- Meaning -->
-- [ ] exploit                          <!-- Meaning -->
-- [ ] incentive                        <!-- Meaning -->
-- [ ] industrious                      <!-- Meaning -->
-- [ ] marginal                         <!-- Meaning -->
-- [ ] merit                            <!-- Meaning -->
-- [ ] promote                          <!-- Meaning -->
-- [ ] resign                           <!-- Meaning -->
-
-## Feb 22, 2024
-### International Trade
-- [ ] distill                          <!-- Meaning -->
-- [ ] entrepreneurial                  <!-- Meaning -->
-- [ ] extract                          <!-- Meaning -->
-- [ ] haggle                           <!-- Meaning -->
-- [ ] intrepid                         <!-- Meaning -->
-- [ ] merchant                         <!-- Meaning -->
-- [ ] proportionately                  <!-- Meaning -->
-- [ ] prototype                        <!-- Meaning -->
-- [ ] reward                           <!-- Meaning -->
-- [ ] shuttle                          <!-- Meaning -->
-
-## Feb 23, 2024
-### Politics
-- [ ] advocate                         <!-- Meaning -->
-- [ ] authority                        <!-- Meaning -->
-- [ ] bitterly                         <!-- Meaning -->
-- [ ] candidate                        <!-- Meaning -->
-- [ ] coalition                        <!-- Meaning -->
-- [ ] contest                          <!-- Meaning -->
-- [ ] election                         <!-- Meaning -->
-- [ ] inaugurate                       <!-- Meaning -->
-- [ ] policy                           <!-- Meaning -->
-- [ ] poll                             <!-- Meaning -->
-
-## Feb 24, 2024
-### A Reasonable Doubt
-- [ ] accuse                           <!-- Meaning -->
-- [ ] allegedly                        <!-- Meaning -->
-- [ ] civil                            <!-- Meaning -->
-- [ ] convict                          <!-- Meaning -->
-- [ ] guilty                           <!-- Meaning -->
-- [ ] offense                          <!-- Meaning -->
-- [ ] peer                             <!-- Meaning -->
-- [ ] suspect                          <!-- Meaning -->
-- [ ] verdict                          <!-- Meaning -->
-- [ ] witness                          <!-- Meaning -->
-
-## Feb 25, 2024
-### The Police
-- [ ] apprehend                        <!-- Meaning -->
-- [ ] ascertain                        <!-- Meaning -->
-- [ ] bureaucratic                     <!-- Meaning -->
-- [ ] condemn                          <!-- Meaning -->
-- [ ] evidence                         <!-- Meaning -->
-- [ ] implicate                        <!-- Meaning -->
-- [ ] inquiry                          <!-- Meaning -->
-- [ ] intrusively                      <!-- Meaning -->
-- [ ] seize                            <!-- Meaning -->
-- [ ] surveillance                     <!-- Meaning -->
-
-## Feb 26, 2024
-### Investigating Crimes
-- [ ] analyze                          <!-- Meaning -->
-- [ ] assail                           <!-- Meaning -->
-- [ ] contrary                         <!-- Meaning -->
-- [ ] hypothesize                      <!-- Meaning -->
-- [ ] impair                           <!-- Meaning -->
-- [ ] inference                        <!-- Meaning -->
-- [ ] objectively                      <!-- Meaning -->
-- [ ] suspicious                       <!-- Meaning -->
-- [ ] tolerate                         <!-- Meaning -->
-- [ ] versus                           <!-- Meaning -->
-
-## Feb 27, 2024
-### Government Corruption
-- [ ] bribery                          <!-- Meaning -->
-- [ ] cynically                        <!-- Meaning -->
-- [ ] erode                            <!-- Meaning -->
-- [ ] evade                            <!-- Meaning -->
-- [ ] grotesque                        <!-- Meaning -->
-- [ ] integrity                        <!-- Meaning -->
-- [ ] prevalent                        <!-- Meaning -->
-- [ ] reform                           <!-- Meaning -->
-- [ ] scandal                          <!-- Meaning -->
-- [ ] unmask                           <!-- Meaning -->
-
-## Feb 28, 2024
-### Crimes at Sea 
-- [ ] abduction                        <!-- Meaning -->
-- [ ] coerce                           <!-- Meaning -->
-- [ ] detain                           <!-- Meaning -->
-- [ ] deviant                          <!-- Meaning -->
-- [ ] distort                          <!-- Meaning -->
-- [ ] intentionally                    <!-- Meaning -->
-- [ ] piracy                           <!-- Meaning -->
-- [ ] predicament                      <!-- Meaning -->
-- [ ] smuggle                          <!-- Meaning -->
-- [ ] villainy                         <!-- Meaning -->
-
-## Feb 29, 2024
-### The War on Drugs
-- [ ] addictive                        <!-- Meaning -->
-- [ ] cartel                           <!-- Meaning -->
-- [ ] concentrated                     <!-- Meaning -->
-- [ ] interdict                        <!-- Meaning -->
-- [ ] juxtapose                        <!-- Meaning -->
-- [ ] misconception                    <!-- Meaning -->
-- [ ] modify                           <!-- Meaning -->
-- [ ] potent                           <!-- Meaning -->
-- [ ] residual                         <!-- Meaning -->
-- [ ] subtly                           <!-- Meaning -->
-
-## Mar 1, 2024
-### Family Relationships
-- [ ] ancestral                        <!-- Meaning -->
-- [ ] cohesion                         <!-- Meaning -->
-- [ ] descendant                       <!-- Meaning -->
-- [ ] inheritance                      <!-- Meaning -->
-- [ ] kin                              <!-- Meaning -->
-- [ ] legitimate                       <!-- Meaning -->
-- [ ] paternal                         <!-- Meaning -->
-- [ ] proximity                        <!-- Meaning -->
-- [ ] sentiment                        <!-- Meaning -->
-- [ ] sibling                          <!-- Meaning -->
-      
-## Mar 2, 2024
-### Friendship
-- [ ] affection                        <!-- Meaning -->
-- [ ] associate                        <!-- Meaning -->
-- [ ] bond                             <!-- Meaning -->
-- [ ] clique                           <!-- Meaning -->
-- [ ] confide                          <!-- Meaning -->
-- [ ] exclusive                        <!-- Meaning -->
-- [ ] fluctuate                        <!-- Meaning -->
-- [ ] in common                        <!-- Meaning -->
-- [ ] solidarity                       <!-- Meaning -->
-- [ ] willing                          <!-- Meaning -->
