@@ -421,3 +421,13 @@
       
 ## Mar 2, 2024
 ### Friendship
+- [ ] affection                        <!-- Meaning -->
+- [ ] associate                        <!-- Meaning -->
+- [ ] bond                             <!-- Meaning -->
+- [ ] clique                           <!-- Meaning -->
+- [ ] confide                          <!-- Meaning -->
+- [ ] exclusive                        <!-- Meaning -->
+- [ ] fluctuate                        <!-- Meaning -->
+- [ ] in common                        <!-- Meaning -->
+- [ ] solidarity                       <!-- Meaning -->
+- [ ] willing                          <!-- Meaning -->
