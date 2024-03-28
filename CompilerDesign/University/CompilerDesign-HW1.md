@@ -190,7 +190,7 @@ for test_str in test_strings:
 ```
 
 Output:
-```scss
+```julia
 '1001' does not match the pattern.
 '101' matches the pattern.
 '11' does not match the pattern.
