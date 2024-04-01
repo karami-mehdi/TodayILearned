@@ -1,5 +1,3 @@
-> To view this document with optimal formatting, please open it using *Markdown-compatible* applications.
-
 |Homework           | **1**                                 |
 |:------------------|:--------------------------------------|
 |Author             | **Mehdi Karami**                      |
