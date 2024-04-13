@@ -1,20 +1,31 @@
 import Foundation
 
+// MARK: - String Extensions for Terminal Colors and Styles
+
 extension String {
+    /// Returns the string with red color.
     var red: String { "\u{001B}[31m\(self)\u{001B}[0m" }
     
+    /// Returns the string with green color.
     var green: String { "\u{001B}[32m\(self)\u{001B}[0m" }
     
+    /// Returns the string with blue color.
     var blue: String { "\u{001B}[34m\(self)\u{001B}[0m" }
     
+    /// Returns the string with magenta color.
     var magenta: String { "\u{001B}[35m\(self)\u{001B}[0m" }
     
+    /// Returns the string with cyan color.
     var cyan: String { "\u{001B}[36m\(self)\u{001B}[0m" }
     
+    /// Returns the string in bold.
     var bold: String { "\u{001B}[1m\(self)\u{001B}[22m" }
     
+    /// Returns the string in italic.
     var italic: String { "\u{001B}[3m\(self)\u{001B}[23m" }
 }
+
+// MARK: - Item Class
 
 class Item: Hashable {
     let file: String
@@ -30,6 +41,7 @@ class Item: Hashable {
         extractTypeAndName()
     }
     
+    /// Extracts type and name from the line.
     private func extractTypeAndName() {
         if let match = line.range(of: #"(class|enum|struct|protocol)\s+(\w+)"#, options: .regularExpression) {
             let typeRange = match.lowerBound..<match.upperBound
@@ -42,6 +54,7 @@ class Item: Hashable {
         }
     }
     
+    /// Returns modifiers of the item.
     var modifiers: [String] {
         guard let match = line.range(of: "(.*?)\(type ?? "")", options: .regularExpression) else { return [] }
         let modifiersRange = line.startIndex..<match.lowerBound
@@ -49,14 +62,18 @@ class Item: Hashable {
         return modifiersString.split(separator: " ").map { String($0) }
     }
     
+    /// Serializes the item.
     func serialize() -> String {
         "\(type?.magenta.italic ?? "") --- \(name?.cyan ?? "") => \("<".green)Path: \(file)\(",".green) Line: \(at)\(">".green)"
     }
     
+    /// Converts the item to Xcode warning format.
     func toXcode() -> String {
         "\(file):\(at):0: warning: \(type ?? "") \(name ?? "") is unused"
     }
 }
+
+// MARK: - Hashable Protocol Requirements
 
 extension Item {
     static func == (lhs: Item, rhs: Item) -> Bool {
@@ -70,9 +87,11 @@ extension Item {
     }
 }
 
+// MARK: - Unused Class
 
 class Unused {
     
+    /// Finds unused items.
     func find() {
         var items: [Item] = []
         let allFiles = FileManager.default.enumerator(atPath: FileManager.default.currentDirectoryPath)?
@@ -105,11 +124,13 @@ class Unused {
         findUsagesInFiles(files: allFiles ?? [], xibs: xibs ?? [], items: items)
     }
     
+    /// Partitions items into private and non-private.
     func partitionItems(items: [Item]) -> ([Item], [Item]) {
         (nonPrivateItems: items.filter { !$0.modifiers.contains("private") && !$0.modifiers.contains("fileprivate") },
          privateItems: items.filter { $0.modifiers.contains("private") || $0.modifiers.contains("fileprivate") })
     }
     
+    /// Ignores files based on regex patterns.
     func ignoreFiles(with regexps: [String], from files: [Item]) -> [Item] {
         files.filter { file in
             regexps.allSatisfy { regexp in
@@ -118,6 +139,7 @@ class Unused {
         }
     }
     
+    /// Fetches regex patterns to ignore from command line arguments.
     func ignoringRegexpsFromCommandLineArgs() -> [String] {
         var regexps: [String] = []
         var shouldSkipPredefinedIgnores = false
@@ -145,6 +167,7 @@ class Unused {
         return regexps
     }
     
+    /// Finds usages of items in files and xibs.
     func findUsagesInFiles(files: [String], xibs: [String], items: [Item]) {
         var items = items
         var usages = Array(repeating: 0, count: items.count)
@@ -193,6 +216,7 @@ class Unused {
         }
     }
     
+    /// Fetches items from a file.
     func grabItems(file: String) -> [Item]? {
         guard let lines = try? String(contentsOfFile: file).components(separatedBy: .newlines) else { return nil }
         return lines.enumerated()
@@ -200,6 +224,7 @@ class Unused {
             .map { Item(file: file, line: $0.element, at: $0.offset) }
     }
     
+    /// Filters items based on predefined conditions.
     func filterItems(items: [Item]) -> [Item] {
         items.filter { item in
             !(item.name?.hasPrefix("test") ?? false) &&
@@ -210,8 +235,11 @@ class Unused {
         }
     }
 }
-                      
+
+// MARK: - Helper Method
+
 extension String {
+    /// Returns an array of captured groups matching the given regex pattern.
     func matchingStrings(regex: String) -> [[String]] {
         guard let regex = try? NSRegularExpression(pattern: regex, options: []) else { return [] }
         let nsString = self as NSString
@@ -223,6 +251,8 @@ extension String {
         }
     }
 }
-                      
+
+// MARK: - Execution
+
 let unused = Unused()
 unused.find()
