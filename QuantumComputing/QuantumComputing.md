@@ -1,5 +1,7 @@
 # Quantum Computing
 
+<p align="center"><img src="qubit.png" width="200"/></p>
+
 **What is Quantum Mechanics?**
    - Quantum mechanics is a branch of physics that deals with the behavior of very small particles, like atoms and subatomic particles.
    - Unlike classical physics, which describes the behavior of objects we can see and interact with in our everyday lives, quantum mechanics deals with phenomena that can seem counterintuitive, like particles being in multiple states simultaneously.
