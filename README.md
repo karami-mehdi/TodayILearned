@@ -18,3 +18,9 @@ As I continue this eclectic exploration, I stay tuned for more discoveries 🤯
 
 <p align="center"><img src="CompilerDesign/University/hw1-task3-dfa.png"/></p>
 
+&nbsp;&nbsp;
+
+
+**- Quantum Computing**
+
+<p align="center"><img src="QuantumComputing/qubit.png" width="200"/></p>
