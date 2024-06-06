@@ -1,89 +1,6 @@
-@charset "UTF-8";
-/**
-* Eric Meyer's Reset CSS v2.0
-*/
-html,
 body,
 div,
-span,
-applet,
-object,
-iframe,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-blockquote,
-pre,
-a,
-abbr,
-acronym,
-address,
-big,
-cite,
-code,
-del,
-dfn,
-em,
-img,
-ins,
-kbd,
-q,
-s,
-samp,
-small,
-strike,
-strong,
-sub,
-sup,
-tt,
-var,
-b,
-u,
-i,
-center,
-dl,
-dt,
-dd,
-ol,
-ul,
-li,
-fieldset,
-form,
-label,
-legend,
-table,
-caption,
-tbody,
-tfoot,
-thead,
-tr,
-th,
-td,
-article,
-aside,
-canvas,
-details,
-embed,
-figure,
-figcaption,
-footer,
-header,
-menu,
-nav,
-output,
-ruby,
-section,
-summary,
-time,
-mark,
-audio,
-video,
-input,
-textarea {
+p {
   margin: 0;
   padding: 0;
   border: 0;
@@ -98,62 +15,27 @@ body {
   background: white;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-ol,
-ul {
-  list-style: none;
-}
-
-blockquote,
-q {
-  quotes: none;
-}
-
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-
-textarea:focus,
-input:focus {
-  outline: 0;
-}
-
-input {
-  border-width: 0;
-}
-
-em {
-  font-style: italic;
-}
-
-h {
-  font-weight: bold;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
 sup {
   font-size: 58.3%;
   vertical-align: text-top;
 }
+
 sub {
   font-size: 58.3%;
   vertical-align: text-bottom;
 }
+
 .displace {
   left: -5000px;
   position: absolute;
 }
+
 html {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+
 *,
 *:after,
 *:before {
@@ -161,9 +43,11 @@ html {
   -moz-box-sizing: inherit;
   box-sizing: inherit;
 }
+
 html {
   font-size: 16px;
 }
+
 body {
   color: #97999b;
   font-family: "Open Sans", sans-serif;
@@ -173,6 +57,7 @@ body {
   letter-spacing: 0;
   text-decoration: none;
 }
+
 .main-container {
   float: none;
   height: auto;
@@ -195,53 +80,63 @@ body {
   padding: 23px 89px 27px 108px;
   background: #24242c;
 }
+
 .logo {
   float: left;
   width: 111;
   height: 40;
 }
+
 .unsubscribe-button {
   float: right;
   margin: 16px 9px 0 0;
   width: 83px;
 }
+
 .main-content-wrapper {
   margin: -1px 0 0;
   position: relative;
   z-index: 11;
 }
+
 .slider {
   padding: 1px 0 0;
   position: relative;
   z-index: 73;
   background: #97999b;
 }
+
 .learn-more-section {
   min-height: 450px;
   padding: 156px 0 125px;
   position: relative;
   background: #feb600b3;
 }
+
 .learn-more-title {
   color: #ffffff;
   font-size: 2.1875rem;
   text-align: center;
 }
+
 .learn-more-description {
   margin: 25px 0 0;
   color: #24242c;
   font-size: 0.9375rem;
   text-align: center;
 }
+
 .learn-more-button {
   color: #ffffff;
 }
+
 .button {
   height: 48px;
   margin: 44px auto 0;
   position: relative;
   width: 162px;
 }
+
 .path {
   height: 46px;
   left: 50%;
@@ -254,12 +149,14 @@ body {
   background: #24242c;
   margin-left: -80px;
 }
+
 .arrow-icon {
   float: right;
   margin: 2px 1px 0 0;
   width: 5;
   height: 9;
 }
+
 .content {
   min-height: 428px;
   padding: 27px 105px;
@@ -269,133 +166,65 @@ body {
 
   display: flex;
   justify-content: center;
-  gap: 20px; /* Adjust gap as needed for spacing between offers */
+  gap: 20px;
 }
+
 .content > * {
   float: left;
   margin: 0 10px 0 0;
 }
+
 .content > *:last-child {
   margin-right: 0 !important;
 }
-.offer-1 {
+
+.offer-container {
   position: relative;
   width: 190px;
 }
-.image {
+
+.offer-image {
   height: 150px;
   position: relative;
-  background-color: #24242c; /*Layer's solid color*/
+  background-color: #24242c;
 }
-.wrapper-13 {
-  margin: 21px 0 0;
-  position: relative;
-}
+
 .icon {
   float: left;
   margin: 1px 9px 0 0;
   width: 9;
   height: 12;
 }
+
 .serif-font {
   font-family: Lora, serif;
 }
-.text-line-height {
-  margin: 21px 0 0;
-  line-height: 1.2;
-}
-.text-7 {
-  margin: 22px 0 0 4px;
-  color: #24242c;
-  font-size: 1.25rem; /* 20px / 16px = 1.25rem */
-  font-weight: 600;
-}
+
 .button-holder {
   margin: 13px 0 0;
   min-height: 37px;
   padding: 0 13px;
   position: relative;
   width: 129px;
-  background: url(images/button_3.png) no-repeat;
+  background: url(images/background_button.png) no-repeat;
   color: #ffb600;
   font-weight: 600;
   line-height: 37px;
   text-align: center;
 }
-.offer-2 {
-  position: relative;
-  width: 190px;
-}
-.image-2 {
-  height: 150px;
-  position: relative;
-  background-color: #24242c; /*Layer's solid color*/
-}
-.wrapper-12 {
-  margin: 21px 0 0;
-  position: relative;
-}
+
 .text-card-title {
   margin: 0 auto 11px;
   color: #24242c;
-  font-size: 1.25rem; /* 20px / 16px = 1.25rem */
+  font-size: 1.25rem;
   font-weight: 600;
 }
-.text-12 {
-  margin: 22px 0 0;
-  color: #24242c;
-  font-size: 1.25rem; /* 20px / 16px = 1.25rem */
-  font-weight: 600;
-}
-.button-holder-2 {
-  margin: 13px 0 0;
-  min-height: 37px;
-  padding: 0 11px;
-  position: relative;
-  width: 128px;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
-  background: #24242c;
-  color: #ffb600;
-  font-weight: 600;
-  line-height: 37px;
-  text-align: center;
-}
-.offer-3 {
-  position: relative;
-  width: 190px;
-}
-.image-3 {
-  height: 150px;
-  position: relative;
-  background-color: #24242c; /*Layer's solid color*/
-}
-.wrapper-11 {
+
+.offer-text-wrapper {
   margin: 21px 0 0;
   position: relative;
 }
-.text-17 {
-  margin: 22px 0 0 4px;
-  color: #24242c;
-  font-size: 1.25rem; /* 20px / 16px = 1.25rem */
-  font-weight: 600;
-}
-.button-holder-3 {
-  margin: 13px 0 0;
-  min-height: 37px;
-  padding: 0 0 0 4px;
-  position: relative;
-  width: 128px;
-  -webkit-border-radius: 3px 5px 4px 4px/4px;
-  -moz-border-radius: 3px 5px 4px 4px/4px;
-  border-radius: 3px 5px 4px 4px/4px;
-  background: #24242c;
-  color: #ffb600;
-  font-weight: 600;
-  line-height: 37px;
-  text-align: center;
-}
+
 .quote {
   overflow: hidden;
   padding: 0 0 1px;
@@ -403,24 +232,28 @@ body {
   z-index: 29;
   background: #97999b;
 }
-.col {
+
+.quote-container {
   min-height: 280px;
   padding: 95px 0 63px;
   position: relative;
   background: rgba(36, 36, 44, 0.7);
 }
-.text-19 {
+
+.qoute-text {
   color: #ffffff;
-  font-size: 2.1875rem; /* 35px / 16px = 2.1875rem */
+  font-size: 2.1875rem;
   text-align: center;
 }
-.button-2 {
+
+.watch-video-button {
   height: 47px;
   margin: 34px auto 0;
   position: relative;
   width: 163px;
 }
-.path-3 {
+
+.watch-video-background {
   height: 46px;
   left: 50%;
   position: absolute;
@@ -432,6 +265,7 @@ body {
   background: #ffb600;
   margin-left: -79.5px;
 }
+
 .row {
   left: 50%;
   min-height: 47px;
@@ -439,77 +273,72 @@ body {
   position: absolute;
   top: 0;
   width: 163px;
-  background: url(images/composite_path.png) no-repeat;
+  background: url(images/background_button_border.png) no-repeat;
   margin-left: -81.5px;
 }
-.text-20 {
+
+.watch-video-text {
   float: left;
   margin: 0 2px 0 0;
   width: 78px;
   color: #24242c;
 }
-.path-4 {
-  float: left;
-  margin: 3px 0 0;
-}
+
 .offer {
   min-height: 430px;
   position: relative;
   z-index: 11;
   background: #ffffff;
 }
-.col-10 {
+
+.offer-background {
   float: left;
   position: relative;
   width: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 430px; /* Make the container take up the full height of the viewport */
+  height: 430px;
 }
-.text-23 {
-  margin: 20px 0 0 3px;
-  width: 216px;
-  line-height: 1.2;
-}
-.text-24 {
-  margin: 23px 0 0 4px;
-  color: #24242c;
-  font-size: 1.25rem; /* 20px / 16px = 1.25rem */
-  font-weight: 600;
-}
+
 .add-image-here {
   float: left;
   height: 430px;
   width: 50%;
-  background-color: #97999b; /*Layer's solid color*/
+  background-color: #97999b;
 }
-.text-27 {
+
+.content-text {
   margin: 20px 0 0 3px;
   width: 216px;
   line-height: 1.2;
 }
-.text-28 {
+
+.amount-text {
   margin: 23px 0 0 4px;
   color: #24242c;
-  font-size: 1.25rem; /* 20px / 16px = 1.25rem */
+  font-size: 1.25rem;
   font-weight: 600;
 }
+
 .footer {
   position: relative;
   z-index: 3;
 }
-.footer-2 {
+
+.footer-container {
   min-height: 98px;
   padding: 22px 109px 36px;
   position: relative;
   background: #24242c;
 }
+
 .sub-logo {
   float: left;
   width: 53;
   height: 40;
 }
+
 .licence-text {
   float: left;
   margin: 21px 0 0 9px;
@@ -518,18 +347,21 @@ body {
   letter-spacing: -0.04em;
   text-align: center;
 }
+
 .contact-us-button {
   float: right;
   margin: 23px 36px 0 0;
   max-width: 13;
   max-height: 13;
 }
+
+.text-style {
+  color: #ffb600;
+  font-family: Lora, serif;
+}
+
 .text-style-italic {
   color: #ffb600;
   font-family: Lora, serif;
   font-style: italic;
-}
-.text-style {
-  color: #ffb600;
-  font-family: Lora, serif;
 }
