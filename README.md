@@ -24,3 +24,8 @@ As I continue this eclectic exploration, I stay tuned for more discoveries 🤯
 **- Quantum Computing**
 
 <p align="center"><img src="QuantumComputing/qubit.png" width="200"/></p>
+
+&nbsp;&nbsp;
+
+
+**- [Web Design](https://github.com/nsswifter/TodayILearned/tree/main/WebDesign/University/LuxoPSDE-MailTemplate)**
