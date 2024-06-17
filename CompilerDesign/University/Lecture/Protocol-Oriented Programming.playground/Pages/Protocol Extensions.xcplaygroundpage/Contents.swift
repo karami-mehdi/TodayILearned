@@ -16,7 +16,7 @@ protocol Vehicle {
  */
 extension Vehicle {
     func drive() {
-        print("Driving at \(speed) km/h")
+        print("Driving at \(speed) mph")
     }
 }
 //: Protocols can also composite from other protocols, allowing you to build complex requirements incrementally.
@@ -30,6 +30,7 @@ struct Airplane: FlyingVehicle {
     var speed: Double
     
     func fly() {
-        print("Flying at \(speed) km/h")
+        print("Flying at \(speed) mph")
     }
 }
+
