@@ -16,7 +16,7 @@ As I continue this eclectic exploration, I stay tuned for more discoveries 🤯
 
 &nbsp;&nbsp;
 
-<p align="center"><img src="CompilerDesign/University/hw1-task3-dfa.png"/></p>
+<p align="center"><img src="CompilerDesign/University/HW1/hw1-task3-dfa.png"/></p>
 
 &nbsp;&nbsp;
 
