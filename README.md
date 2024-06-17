@@ -8,6 +8,12 @@ As I continue this eclectic exploration, I stay tuned for more discoveries 🤯
 
 &nbsp;&nbsp;
 
+**- Protocol-Oriented Programming**
+
+<p align="center"><img src="CompilerDesign/University/Lecture/Protocol-Oriented Programming.playground/Pages/Introduction.xcplaygroundpage/Resources/Protocol-Oriented-Programming.png"/></p>
+
+&nbsp;&nbsp;
+
 **- Unused Code Finder in Swift Projects (Xcode)**
 
 <p align="center"><img src="Swift/UnusedCodeFinder/UnusedCodeFinder.png"/></p>
@@ -26,6 +32,5 @@ As I continue this eclectic exploration, I stay tuned for more discoveries 🤯
 <p align="center"><img src="QuantumComputing/qubit.png" width="200"/></p>
 
 &nbsp;&nbsp;
-
 
 **- [Web Design](https://github.com/nsswifter/TodayILearned/tree/main/WebDesign/University/LuxoPSDE-MailTemplate)**
