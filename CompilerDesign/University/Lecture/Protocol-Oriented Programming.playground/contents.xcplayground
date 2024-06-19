@@ -5,5 +5,7 @@
         <page name='Object-Oriented Programming'/>
         <page name='Protocol-Oriented Programming'/>
         <page name='Protocol Extensions'/>
+        <page name='Design Patterns'/>
+        <page name='Delegate Pattern'/>
     </pages>
 </playground>

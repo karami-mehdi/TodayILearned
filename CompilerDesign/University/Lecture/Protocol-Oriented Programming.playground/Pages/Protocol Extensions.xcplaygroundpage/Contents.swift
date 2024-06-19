@@ -33,4 +33,8 @@ struct Airplane: FlyingVehicle {
         print("Flying at \(speed) mph")
     }
 }
-
+/*:
+ ---
+ 
+ # [Design Patterns](@next)
+ */
