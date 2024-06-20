@@ -42,8 +42,7 @@ class User: PostDriver.Delegate {
 }
 
 let user = User()
-//user.requestPockets()
-
+user.requestPockets()
 /*:
  ### Benefits of POP
  
