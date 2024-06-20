@@ -36,5 +36,5 @@ struct Airplane: FlyingVehicle {
 /*:
  ---
  
- # [Design Patterns](@next)
+ # [Built-in Protocols](@next)
  */
