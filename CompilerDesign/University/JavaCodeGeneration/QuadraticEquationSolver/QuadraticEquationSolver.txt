@@ -1,0 +1,131 @@
+Compiled from "QuadraticEquationSolver.java"
+public class QuadraticEquationSolver {
+  public QuadraticEquationSolver();
+    Code:
+       0: aload_0
+       1: invokespecial #1                  // Method java/lang/Object."<init>":()V
+       4: return
+    LineNumberTable:
+      line 1: 0
+    LocalVariableTable:
+      Start  Length  Slot  Name   Signature
+          0       5     0  this   LQuadraticEquationSolver;
+
+  public static void main(java.lang.String[]);
+    Code:
+       0: dconst_1
+       1: dstore_1
+       2: ldc2_w        #7                  // double -3.0d
+       5: dstore_3
+       6: ldc2_w        #9                  // double 2.0d
+       9: dstore        5
+      11: dload_1
+      12: dload_3
+      13: dload         5
+      15: invokestatic  #11                 // Method solveQuadraticEquation:(DDD)[D
+      18: astore        7
+      20: aload         7
+      22: ifnull        58
+      25: getstatic     #17                 // Field java/lang/System.out:Ljava/io/PrintStream;
+      28: aload         7
+      30: iconst_0
+      31: daload
+      32: invokedynamic #23,  0             // InvokeDynamic #0:makeConcatWithConstants:(D)Ljava/lang/String;
+      37: invokevirtual #27                 // Method java/io/PrintStream.println:(Ljava/lang/String;)V
+      40: getstatic     #17                 // Field java/lang/System.out:Ljava/io/PrintStream;
+      43: aload         7
+      45: iconst_1
+      46: daload
+      47: invokedynamic #33,  0             // InvokeDynamic #1:makeConcatWithConstants:(D)Ljava/lang/String;
+      52: invokevirtual #27                 // Method java/io/PrintStream.println:(Ljava/lang/String;)V
+      55: goto          66
+      58: getstatic     #17                 // Field java/lang/System.out:Ljava/io/PrintStream;
+      61: ldc           #34                 // String The equation has no real roots.
+      63: invokevirtual #27                 // Method java/io/PrintStream.println:(Ljava/lang/String;)V
+      66: return
+    LineNumberTable:
+      line 4: 0
+      line 5: 2
+      line 6: 6
+      line 8: 11
+      line 10: 20
+      line 11: 25
+      line 12: 40
+      line 14: 58
+      line 16: 66
+    LocalVariableTable:
+      Start  Length  Slot  Name   Signature
+          0      67     0  args   [Ljava/lang/String;
+          2      65     1     a   D
+          6      61     3     b   D
+         11      56     5     c   D
+         20      47     7 roots   [D
+
+  public static double[] solveQuadraticEquation(double, double, double);
+    Code:
+       0: dload_2
+       1: dload_2
+       2: dmul
+       3: ldc2_w        #36                 // double 4.0d
+       6: dload_0
+       7: dmul
+       8: dload         4
+      10: dmul
+      11: dsub
+      12: dstore        6
+      14: dload         6
+      16: dconst_0
+      17: dcmpg
+      18: ifge          23
+      21: aconst_null
+      22: areturn
+      23: dload         6
+      25: invokestatic  #38                 // Method java/lang/Math.sqrt:(D)D
+      28: dstore        8
+      30: dload_2
+      31: dneg
+      32: dload         8
+      34: dadd
+      35: ldc2_w        #9                  // double 2.0d
+      38: dload_0
+      39: dmul
+      40: ddiv
+      41: dstore        10
+      43: dload_2
+      44: dneg
+      45: dload         8
+      47: dsub
+      48: ldc2_w        #9                  // double 2.0d
+      51: dload_0
+      52: dmul
+      53: ddiv
+      54: dstore        12
+      56: iconst_2
+      57: newarray       double
+      59: dup
+      60: iconst_0
+      61: dload         10
+      63: dastore
+      64: dup
+      65: iconst_1
+      66: dload         12
+      68: dastore
+      69: areturn
+    LineNumberTable:
+      line 28: 0
+      line 31: 14
+      line 32: 21
+      line 36: 23
+      line 37: 30
+      line 38: 43
+      line 40: 56
+    LocalVariableTable:
+      Start  Length  Slot  Name   Signature
+          0      70     0     a   D
+          0      70     2     b   D
+          0      70     4     c   D
+         14      56     6 discriminant   D
+         30      40     8 sqrtDiscriminant   D
+         43      27    10 root1   D
+         56      14    12 root2   D
+}
