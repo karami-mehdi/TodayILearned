@@ -35,4 +35,4 @@ As I continue this eclectic exploration, I stay tuned for more discoveries 🤯
 
 **- Web Design (Bootstrap)**
 
-<p align="center"> <a href="WebDesign/University/LuxoPSDE-MailTemplate/index-bootstrap.html"> <img src="WebDesign/University/LuxoPSDE-MailTemplate/images/html.png" width="150" height="150"/></a> </p>
+<p align="center"> <a href="WebDesign/University/LuxoPSDE-MailTemplate/index-bootstrap.html"> <img src="WebDesign/University/LuxoPSDE-MailTemplate/images/html.png" height="150"/></a> </p>
