@@ -33,4 +33,6 @@ As I continue this eclectic exploration, I stay tuned for more discoveries 🤯
 
 &nbsp;&nbsp;
 
-**- [Web Design](https://github.com/nsswifter/TodayILearned/tree/main/WebDesign/University/LuxoPSDE-MailTemplate)**
+**- Web Design (Bootstrap)**
+
+<p align="center"> <a href="WebDesign/University/LuxoPSDE-MailTemplate/index-bootstrap.html"> <img src="WebDesign/University/LuxoPSDE-MailTemplate/images/html.png" width="150" height="150"/></a> </p>
