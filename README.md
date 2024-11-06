@@ -26,7 +26,6 @@ As I continue this eclectic exploration, I stay tuned for more discoveries 🤯
 
 &nbsp;&nbsp;
 
-
 **- Quantum Computing**
 
 <p align="center"><img src="QuantumComputing/qubit.png" width="200"/></p>
@@ -36,3 +35,11 @@ As I continue this eclectic exploration, I stay tuned for more discoveries 🤯
 **- Web Design ([Bootstrap](WebDesign/University/LuxoPSDE-MailTemplate/index.html))**
 
 <p align="center"> <a href="https://nsswifter.github.io/TodayILearned"> <img src="WebDesign/University/LuxoPSDE-MailTemplate/images/html.png" height="150"/></a> </p>
+
+&nbsp;&nbsp;
+
+**- Internet of Things - Chat TCP/IP**
+
+&nbsp;&nbsp;
+
+<p align="center"><img src="InternetOfThings/TCPChat/docs/demo.png"/></p>
