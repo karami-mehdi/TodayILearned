@@ -2,7 +2,7 @@
 
 A simple terminal-based TCP/IP chat application developed in **Go**, designed to demonstrate basic networking principles. The program allows two-way communication between a server and client on the same device (localhost) over a TCP connection. This project is intended for use in the **Fundamentals of Internet of Things** course as a foundational example of TCP communication.
 
-<p align="center"><img src="TCPChat/docs/demo.png"/></p>
+<p align="center"><img src="docs/demo.png"/></p>
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
