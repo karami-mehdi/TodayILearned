@@ -29,6 +29,7 @@ import (
 const (
     Reset   = "\033[0m"
     Red     = "\033[31m"
+    Green   = "\033[32m"
     Cyan    = "\033[36m"
     Magenta = "\033[35m"
     Yellow  = "\033[33m"
@@ -43,7 +44,7 @@ func main() {
         return
     }
     defer conn.Close()
-    fmt.Println(Magenta + "Connected to the server!" + Reset)
+    fmt.Println(Green + "Connected to the server!" + Reset)
 
     // Channel to detect server disconnection
     disconnectChan := make(chan bool)
