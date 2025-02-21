@@ -10,7 +10,7 @@ As I continue this eclectic exploration, I stay tuned for more discoveries 🤯
 
 **- Protocol-Oriented Programming**
 
-<p align="center"><img src="TodayILearned/blob/main/Swift/ProtocolOrientedProgramming/Protocol-Oriented%20Programming.playground/Pages/Introduction.xcplaygroundpage/Resources/Protocol-Oriented-Programming.png"/></p>
+<p align="center"><img src="Swift/ProtocolOrientedProgramming/Protocol-Oriented%20Programming.playground/Pages/Introduction.xcplaygroundpage/Resources/Protocol-Oriented-Programming.png"/></p>
 
 &nbsp;&nbsp;
 
