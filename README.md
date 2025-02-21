@@ -10,7 +10,7 @@ As I continue this eclectic exploration, I stay tuned for more discoveries 🤯
 
 **- Protocol-Oriented Programming**
 
-<p align="center"><img src="https://github.com/nsswifter/TodayILearned/blob/main/Swift/ProtocolOrientedProgramming/Protocol-Oriented%20Programming.playground/Pages/Introduction.xcplaygroundpage/Resources/Protocol-Oriented-Programming.png"/></p>
+<p align="center"><img src="TodayILearned/blob/main/Swift/ProtocolOrientedProgramming/Protocol-Oriented%20Programming.playground/Pages/Introduction.xcplaygroundpage/Resources/Protocol-Oriented-Programming.png"/></p>
 
 &nbsp;&nbsp;
 
@@ -34,7 +34,7 @@ As I continue this eclectic exploration, I stay tuned for more discoveries 🤯
 
 **- Web Design ([Bootstrap](WebDesign/University/LuxoPSDE-MailTemplate/index.html))**
 
-<p align="center"> <a href="https://nsswifter.github.io/TodayILearned"> <img src="WebDesign/University/LuxoPSDE-MailTemplate/images/html.png" height="150"/></a> </p>
+<p align="center"> <a href="https://karami-mehdi.github.io/TodayILearned"> <img src="WebDesign/University/LuxoPSDE-MailTemplate/images/html.png" height="150"/></a> </p>
 
 &nbsp;&nbsp;
 
