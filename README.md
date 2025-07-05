@@ -43,3 +43,15 @@ As I continue this eclectic exploration, I stay tuned for more discoveries 🤯
 &nbsp;&nbsp;
 
 <p align="center"><img src="InternetOfThings/TCPChat/docs/demo.png"/></p>
+
+&nbsp;&nbsp;
+
+**- Computational Intelligence - Character Classification Using Perceptron**
+
+&nbsp;&nbsp;
+
+<p style="align: center;">
+  <a href="ComputationalIntelligence/CharacterClassificationUsingPerceptron.ipynb" target="_blank">
+    View the Character Classification Notebook (.ipynb)
+  </a>
+</p>
